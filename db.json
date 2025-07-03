@@ -1,0 +1,2286 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Kitchen Utilities",
+      "items": [
+        {
+          "id": 101,
+          "title": "Pressure Cookers",
+          "image": "./src/assets/1744717663_Pressure_Cookers.jpg"
+        },
+        {
+          "id": 102,
+          "title": "Cookware Sets",
+          "image": "./src/assets/1744717921_Cookware_Sets.jpg"
+        },
+        {
+          "id": 103,
+          "title": "Gas Burner",
+          "image": "./src/assets/1744717759_Gas_Burner.jpg"
+        },
+        {
+          "id": 104,
+          "title": "Steamers & Idli Makers",
+          "image": "./src/assets/1744717710_Steamers_Idli_Makers.jpg"
+        },
+        {
+          "id": 105,
+          "title": "Flask & Bottles",
+          "image": "./src/assets/1744789339_Flask__Bottles.jpg"
+        },
+        {
+          "id": 106,
+          "title": "Choppers",
+          "image": "./src/assets/1744789392_Choppers.jpg"
+        },
+        {
+          "id": 107,
+          "title": "Plates Dinner Sets",
+          "image": "./src/assets/1744790737_Plates_Dinner_Sets.jpg"
+        },
+        {
+          "id": 108,
+          "title": "Glassware & Drinkware",
+          "image": "./src/assets/1744790879_Glassware_Drinkware.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Cooking Essentials",
+      "items": [
+        {
+          "id": 101,
+          "title": "Atta",
+          "image": "./src/assets/1744785367_Atta.jpg"
+        },
+        {
+          "id": 102,
+          "title": "Besan & Maida",
+          "image": "./src/assets/1744785409_Besan__Maida.jpg"
+        },
+        {
+          "id": 103,
+          "title": "Dal & Pulses",
+          "image": "./src/assets/1744785530_Dal_Pulses.jpg"
+        },
+        {
+          "id": 104,
+          "title": "Basmati Rice",
+          "image": "./src/assets/1744785561_Basmati_Rice.jpg"
+        },
+        {
+          "id": 105,
+          "title": "Poha, Sabudana, Murmura",
+          "image": "./src/assets/1744785697_Poha_Sabudana_Murmura.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Precious Jewellery & Coins",
+      "items": [
+        {
+          "id": 101,
+          "title": "Gold & Silver Coins",
+          "image": "./src/assets/1748844984_7.jpg"
+        },
+        {
+          "id": 102,
+          "title": "Silver Jewellery",
+          "image": "./src/assets/1748845051_7.jpg"
+        },
+        {
+          "id": 103,
+          "title": "Silver Idols & Articles",
+          "image": "./src/assets/1748845269_7.jpg"
+        },
+        {
+          "id": 104,
+          "title": "Gemstones",
+          "image": "./src/assets/1748845341_7.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Women's Fashion",
+      "items": [
+        {
+          "id": 101,
+          "title": "T-shirts",
+          "image": "./src/assets/1749033804_Fashion_tile_cards_1.jpg"
+        },
+        {
+          "id": 102,
+          "title": "Tops",
+          "image": "./src/assets/1749033835_Fashion_tile_cards_2.jpg"
+        },
+        {
+          "id": 103,
+          "title": "Dresses",
+          "image": "./src/assets/1749033860_Fashion_tile_cards_3.jpg"
+        },
+        {
+          "id": 104,
+          "title": "Sarees",
+          "image": "./src/assets/1744712719_New-HP---Fashion--3-.jpg"
+        },
+        {
+          "id": 105,
+          "title": "Kurta Sets",
+          "image": "./src/assets/1744712680_New-HP---Fashion--2-.jpg"
+        },
+        {
+          "id": 106,
+          "title": "Handbags",
+          "image": "./src/assets/1744713403_New-HP---Fashion--2--1.jpg"
+        },
+        {
+          "id": 107,
+          "title": "Watches",
+          "image": "./src/assets/1744713442_New-HP---Fashion--2--2.jpg"
+        },
+        {
+          "id": 108,
+          "title": "Jewellery Sets",
+          "image": "./src/assets/1747648186_Artboard_2_copy_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Home Furnishing & Furniture",
+      "items": [
+        {
+          "id": 101,
+          "title": "Bedsheets & Sets",
+          "image": "./src/assets/1744716707_Bedsheets_Sets.jpg"
+        },
+        {
+          "id": 102,
+          "title": "Pillows & pillow Cover",
+          "image": "./src/assets/1744716787_Pillows_Pillow_Cover.jpg"
+        },
+        {
+          "id": 103,
+          "title": "Cushions & Cushion Covers",
+          "image": "./src/assets/1744716826_Cushions_Cushion_Covers.jpg"
+        },
+        {
+          "id": 104,
+          "title": "Sofa Covers",
+          "image": "./src/assets/1744717336_Sofa_Covers.jpg"
+        },
+        {
+          "id": 105,
+          "title": "Door Curtains",
+          "image": "./src/assets/1744717229_Door_Curtains.jpg"
+        },
+        {
+          "id": 106,
+          "title": "Window Curtains",
+          "image": "./src/assets/1744717262_Window_Curtains.jpg"
+        },
+        {
+          "id": 107,
+          "title": "Bean Bags",
+          "image": "./src/assets/1744802927_Bean_Bags.jpg"
+        },
+        {
+          "id": 108,
+          "title": "Shoe Racks",
+          "image": "./src/assets/1744788641_Shoe_Racks.jpg"
+        },
+        {
+          "id": 109,
+          "title": "Wardrobes & Cases",
+          "image": "./src/assets/1744788595_Wardrobes_Cases.jpg"
+        },
+        {
+          "id": 110,
+          "title": "Drawers & Cabinets",
+          "image": "./src/assets/1744788699_Drawers_Cabinets.jpg"
+        },
+        {
+          "id": 111,
+          "title": "Storage & Stands",
+          "image": "./src/assets/1744788730_Storage_Stands.jpg"
+        },
+        {
+          "id": 112,
+          "title": "Mattress",
+          "image": "./src/assets/1744716963_Mattress.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Mobile | Laptops | Audio",
+      "items": [
+        {
+          "id": 101,
+          "title": "Smartphones",
+          "image": "./src/assets/1745469163_Smartphones.jpg"
+        },
+        {
+          "id": 102,
+          "title": "Chargers & Adapters",
+          "image": "./src/assets/1744707284_Chargers_and_Adapters.jpg"
+        },
+        {
+          "id": 103,
+          "title": "Tablets",
+          "image": "./src/assets/1744707129_Tablets.jpg"
+        },
+        {
+          "id": 104,
+          "title": "Laptops",
+          "image": "./src/assets/1746119423_Laptops-Desktops.jpg"
+        },
+        {
+          "id": 105,
+          "title": "Headphones And Earbuds",
+          "image": "./src/assets/1746090729_Headphones.jpg"
+        },
+        {
+          "id": 106,
+          "title": "Soundbars And Speakers",
+          "image": "./src/assets/1746090764_6.jpg"
+        },
+        {
+          "id": 107,
+          "title": "Power Banks",
+          "image": "./src/assets/1744707204_Chargers_and_Powerbanks.jpg"
+        },
+        {
+          "id": 108,
+          "title": "Feature Phones",
+          "image": "./src/assets/1744707381_Feature-Phones.jpg"
+        },
+        {
+          "id": 109,
+          "title": "Smart Watches",
+          "image": "./src/assets/1746017953_146x160_1.jpg"
+        },
+        {
+          "id": 110,
+          "title": "Case & Screen Protectors",
+          "image": "./src/assets/1744707516_Cover.jpg"
+        },
+        {
+          "id": 111,
+          "title": "Storage",
+          "image": "./src/assets/1746119578_89.jpg"
+        },
+        {
+          "id": 112,
+          "title": "Computer Accessories",
+          "image": "./src/assets/1746119600_78.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Travel & Luggage",
+      "items": [
+        {
+          "id": 101,
+          "title": "Backpacks",
+          "image": "./src/assets/1744789942_Backpacks.jpg"
+        },
+        {
+          "id": 102,
+          "title": "Laptop Bags",
+          "image": "./src/assets/1744789975_Laptop_Bags.jpg"
+        },
+        {
+          "id": 103,
+          "title": "Strolley Duffle Bags",
+          "image": "./src/assets/1744790048_Strolley_Duffle_Bags.jpg"
+        },
+        {
+          "id": 104,
+          "title": "Waist Bags",
+          "image": "./src/assets/1744790184_Waist_Bags.jpg"
+        },
+        {
+          "id": 105,
+          "title": "Soft Trolleys",
+          "image": "./src/assets/1744789599_Soft_trolleys.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Biscuits | Drinks | Packaged Food",
+      "items": [
+        {
+          "id": 101,
+          "title": "Namkeen & Chips",
+          "image": "./src/assets/1744783946_Namkeen__Chips.jpg"
+        },
+        {
+          "id": 102,
+          "title": "Chocolates & Candies",
+          "image": "./src/assets/1744783995_Chocolates__Candies.jpg"
+        },
+        {
+          "id": 103,
+          "title": "Jelly & Fruit Bars",
+          "image": "./src/assets/1744784050_Jelly__Fruit_Bars.jpg"
+        },
+        {
+          "id": 104,
+          "title": "Chikki & Gift Hamper",
+          "image": "./src/assets/1744784094_Chikki__Gift_Hamper.jpg"
+        },
+        {
+          "id": 105,
+          "title": "Tinned & Packed Sweets",
+          "image": "./src/assets/1744784137_Tinned_Packed_Sweets.jpg"
+        },
+        {
+          "id": 106,
+          "title": "Juice & Cold Drinks",
+          "image": "./src/assets/1744784190_Juice__Cold_Drinks.jpg"
+        },
+        {
+          "id": 107,
+          "title": "Energy & Nutritional Drin..",
+          "image": "./src/assets/1744784248_Energy_Nutritional_Drinks.jpg"
+        },
+        {
+          "id": 108,
+          "title": "Soda, Syrups, Premixes",
+          "image": "./src/assets/1744784309_Soda_Syrups_Premixes.jpg"
+        },
+        {
+          "id": 109,
+          "title": "Breakfast Cereals",
+          "image": "./src/assets/1744784345_Breakfast_Cereals.jpg"
+        },
+        {
+          "id": 110,
+          "title": "Instant & Cup Noodles",
+          "image": "./src/assets/1744784419_Instant__Cup_Noodles.jpg"
+        },
+        {
+          "id": 111,
+          "title": "Pasta & Vermicelli",
+          "image": "./src/assets/1744784493_Pasta_Vermicelli.jpg"
+        },
+        {
+          "id": 112,
+          "title": "Dips & Sauces",
+          "image": "./src/assets/1744784549_Dips__Sauces.jpg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Men's Fashion",
+      "items": [
+        {
+          "id": 101,
+          "title": "T-shirts",
+          "image": "./src/assets/1744707057_New-HP---Fashion--1-.jpg"
+        },
+        {
+          "id": 102,
+          "title": "Shirts",
+          "image": "./src/assets/1744707093_New-HP---Fashion--2-.jpg"
+        },
+        {
+          "id": 103,
+          "title": "Shorts",
+          "image": "./src/assets/1744711285_New-HP---Fashion--3-.jpg"
+        },
+        {
+          "id": 104,
+          "title": "Jeans",
+          "image": "./src/assets/1744707211_New-HP---Fashion--5-.jpg"
+        },
+        {
+          "id": 105,
+          "title": "Trousers & Pants",
+          "image": "./src/assets/1744707252_New-HP---Fashion--6-.jpg"
+        },
+        {
+          "id": 106,
+          "title": "Blazers & Coats",
+          "image": "./src/assets/1744707532_New-HP---Fashion--9-.jpg"
+        },
+        {
+          "id": 107,
+          "title": "Casual Shoes",
+          "image": "./src/assets/1745479842_shoes.jpg"
+        },
+        {
+          "id": 108,
+          "title": "Formal Shoes",
+          "image": "./src/assets/1744710629_New-HP---Fashion--4-.jpg"
+        },
+        {
+          "id": 109,
+          "title": "Watches",
+          "image": "./src/assets/1744711839_New-HP---Fashion--5-.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Appliances & Entertainment",
+      "items": [
+        {
+          "id": 101,
+          "title": "AC",
+          "image": "./src/assets/1744708052_Air-Conditioners.jpg"
+        },
+        {
+          "id": 102,
+          "title": "Air Coolers",
+          "image": "./src/assets/1744708900_Air-Coolers.jpg"
+        },
+        {
+          "id": 103,
+          "title": "Fans",
+          "image": "./src/assets/1744708590_Fans.jpg"
+        },
+        {
+          "id": 104,
+          "title": "Telivisions",
+          "image": "./src/assets/1744099605_Television.jpg"
+        },
+        {
+          "id": 105,
+          "title": "Refrigerators",
+          "image": "./src/assets/1744708084_Refrigerators.jpg"
+        },
+        {
+          "id": 106,
+          "title": "Washing Machines",
+          "image": "./src/assets/1744708108_Washing-Machines.jpg"
+        },
+        {
+          "id": 107,
+          "title": "Vacuum Cleaners",
+          "image": "./src/assets/1746181914_Vaccumm-Cleaners.jpg"
+        },
+        {
+          "id": 108,
+          "title": "Water Purifiers",
+          "image": "./src/assets/1746181990_Water-Purifiers.jpg"
+        },
+        {
+          "id": 109,
+          "title": "Smart Home Devices",
+          "image": "./src/assets/1744709060_Smart-Homes.jpg"
+        },
+        {
+          "id": 110,
+          "title": "Projectors",
+          "image": "./src/assets/1744897081_Projectors.jpg"
+        },
+        {
+          "id": 111,
+          "title": "Gaming",
+          "image": "./src/assets/1744099755_Gaming.jpg"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Home Decor & Lights",
+      "items": [
+        {
+          "id": 101,
+          "title": "Home Decoratives",
+          "image": "./src/assets/1744788938_Home_Decoratives.jpg"
+        },
+        {
+          "id": 102,
+          "title": "Fragrances",
+          "image": "./src/assets/1744788991_Fragrances.jpg"
+        },
+        {
+          "id": 103,
+          "title": "Artificial Flower & Plan..",
+          "image": "./src/assets/1744789029_Artificial_flowers_and_Plants.jpg"
+        },
+        {
+          "id": 104,
+          "title": "Festive Decor & Gifting",
+          "image": "./src/assets/1744789148_Festive_Decor__Gifting.jpg"
+        },
+        {
+          "id": 105,
+          "title": "Wind Chimes & Dream Catch..",
+          "image": "./src/assets/1744789234_Wind_Chimes_Dream_Catchers.jpg"
+        },
+        {
+          "id": 106,
+          "title": "CFLs & LEDs",
+          "image": "./src/assets/1744791205_CFLs_LEDs.jpg"
+        },
+        {
+          "id": 107,
+          "title": "Chandeliers",
+          "image": "./src/assets/1744791239_Chandeliers.jpg"
+        },
+        {
+          "id": 108,
+          "title": "Serial Lights",
+          "image": "./src/assets/1744791286_Serial_Lights.jpg"
+        },
+        {
+          "id": 109,
+          "title": "Table Lamps",
+          "image": "./src/assets/1744791329_Table_Lamps.jpg"
+        },
+        {
+          "id": 110,
+          "title": "Clocks & Wall Decor",
+          "image": "./src/assets/1744789381_Clocks__Wall_Decor.jpg"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Beauty",
+      "items": [
+        {
+          "id": 101,
+          "title": "Facial Kit",
+          "image": "./src/assets/1745987082_Facial-Kits.jpg"
+        },
+        {
+          "id": 102,
+          "title": "Face Scrub & Exfoliants",
+          "image": "./src/assets/1745987223_Face-Scrubs_and_Exfoliants.jpg"
+        },
+        {
+          "id": 103,
+          "title": "Hair Masks & Packs",
+          "image": "./src/assets/1745987298_Hair-Masks_and_Packs.jpg"
+        },
+        {
+          "id": 104,
+          "title": "Essential Oils",
+          "image": "./src/assets/1745987347_Essential-Oils.jpg"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Winter Appliances & Accessories",
+      "items": [
+        {
+          "id": 101,
+          "title": "Geysers & Rods",
+          "image": "./src/assets/1744708669_Geysers--Immersion-Rods.jpg"
+        },
+        {
+          "id": 102,
+          "title": "Room Heaters",
+          "image": "./src/assets/1744708953_Room-Heaters.jpg"
+        },
+        {
+          "id": 103,
+          "title": "Invertors & Stabilizers",
+          "image": "./src/assets/1744708773_Invertors.jpg"
+        },
+        {
+          "id": 104,
+          "title": "Appliance Accessories",
+          "image": "./src/assets/1744708147_Stands.jpg"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Fitness Equipment's & Sports",
+      "items": [
+        {
+          "id": 101,
+          "title": "Strength Training",
+          "image": "./src/assets/1744792554_Strength_Training.jpg"
+        },
+        {
+          "id": 102,
+          "title": "Cardio Equipments",
+          "image": "./src/assets/1744792620_Cardio_Equipments.jpg"
+        },
+        {
+          "id": 103,
+          "title": "Cricket",
+          "image": "./src/assets/1744792893_Cricket.jpg"
+        },
+        {
+          "id": 104,
+          "title": "Football",
+          "image": "./src/assets/1744792921_Football.jpg"
+        },
+        {
+          "id": 105,
+          "title": "Badmintons",
+          "image": "./src/assets/1744793139_Badmintons.jpg"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Home Care",
+      "items": [
+        {
+          "id": 101,
+          "title": "Detergents",
+          "image": "./src/assets/1745987151_Detergents.jpg"
+        },
+        {
+          "id": 102,
+          "title": "Dishwashers",
+          "image": "./src/assets/1745987177_Dishwashers.jpg"
+        },
+        {
+          "id": 103,
+          "title": "Household Cleaners",
+          "image": "./src/assets/1745987202_Household_Cleaners.jpg"
+        },
+        {
+          "id": 104,
+          "title": "Fresheners & Repellents",
+          "image": "./src/assets/1745987226_Fresheners_Repellents.jpg"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Prayer & Spiritual Needs",
+      "items": [
+        {
+          "id": 101,
+          "title": "Lamp Oil",
+          "image": "./src/assets/1744718359_Lamp_Oil.jpg"
+        },
+        {
+          "id": 102,
+          "title": "Agarbatti",
+          "image": "./src/assets/1744718381_Agarbatti.jpg"
+        },
+        {
+          "id": 103,
+          "title": "Camphor",
+          "image": "./src/assets/1744718402_Camphor.jpg"
+        },
+        {
+          "id": 104,
+          "title": "Dhoop",
+          "image": "./src/assets/1744718424_Dhoop.jpg"
+        },
+        {
+          "id": 105,
+          "title": "Lanterns",
+          "image": "./src/assets/1744718474_Lanterns.jpg"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Mom & Baby",
+      "items": [
+        {
+          "id": 101,
+          "title": "Walkers, Rockers & Swings",
+          "image": "./src/assets/1744707484_Walkers-Rockers-Swings.jpg"
+        },
+        {
+          "id": 102,
+          "title": "Bath Toys",
+          "image": "./src/assets/1744707539_Bath-Toys.jpg"
+        },
+        {
+          "id": 103,
+          "title": "Strollers, Prams & Carrie..",
+          "image": "./src/assets/1744707583_Strollers-Prams--Carriers.jpg"
+        },
+        {
+          "id": 104,
+          "title": "Cloth Diapers",
+          "image": "./src/assets/1744707615_Cloth-Diapers.jpg"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Pet Care",
+      "items": [
+        {
+          "id": 101,
+          "title": "Birds",
+          "image": "./src/assets/1744791429_Birds.jpg"
+        },
+        {
+          "id": 102,
+          "title": "Cats",
+          "image": "./src/assets/1744791465_Cats.jpg"
+        },
+        {
+          "id": 103,
+          "title": "Dogs",
+          "image": "./src/assets/1744791490_Dogs.jpg"
+        },
+        {
+          "id": 104,
+          "title": "Others",
+          "image": "./src/assets/1744791518_Others.jpg"
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 1001,
+      "name": "BIRDSHALA Organic Large Size Bird NEST Set of 2, Purely Made by Bird Building Technique Bird House (Hanging, Wall Mounting, Tree Mounting) (Pack of 2)",
+      "brand": "BIRDSHALA",
+      "categoryId": 20,
+      "subcategoryId": 101,
+      "price": 199,
+      "discount": 80,
+      "originalPrice": 999,
+      "image": [
+        "/assets/products/birdshala-organic-large-size-bird-nest-set-of-2-purely-made-by-bird-building-technique-bird-house-hanging-wall-mounting-tree-mounting-pack-of-2-product-images-orvbtkurmcr-p608103053-0-202402201558.jpg",
+        "/assets/products/birdshala-organic-large-size-bird-nest-set-of-2-purely-made-by-bird-building-technique-bird-house-hanging-wall-mounting-tree-mounting-pack-of-2-product-images-orvbtkurmcr-p608103053-3-202402201558.jpg",
+        "/assets/products/birdshala-organic-large-size-bird-nest-set-of-2-purely-made-by-bird-building-technique-bird-house-hanging-wall-mounting-tree-mounting-pack-of-2-product-images-orvbtkurmcr-p608103053-1-202402201558.jpg",
+        "/assets/products/birdshala-organic-large-size-bird-nest-set-of-2-purely-made-by-bird-building-technique-bird-house-hanging-wall-mounting-tree-mounting-pack-of-2-product-images-orvbtkurmcr-p608103053-2-202402201558.jpg"
+      ],
+      "reviews": 0,
+      "description": ""
+    },
+    {
+      "id": 1002,
+      "name": "BIRDSHALA Hanging Bird Feeder for Water & Seed Bird Bath Trey for Hanging on Your Balcony, Trees, Garden (1)",
+      "brand": "BIRDSHALA",
+      "categoryId": 20,
+      "subcategoryId": 101,
+      "price": 299,
+      "discount": 70,
+      "originalPrice": 999,
+      "image": [
+        "/assets/products/birdshala-hanging-bird-feeder-for-water-seed-bird-bath-trey-for-hanging-on-your-balcony-trees-garden-1-product-images-orvunoe1rxc-p608102772-0-202402201537.jpg",
+        "/assets/products/birdshala-hanging-bird-feeder-for-water-seed-bird-bath-trey-for-hanging-on-your-balcony-trees-garden-1-product-images-orvunoe1rxc-p608102772-1-202402201537.jpg",
+        "/assets/products/birdshala-hanging-bird-feeder-for-water-seed-bird-bath-trey-for-hanging-on-your-balcony-trees-garden-1-product-images-orvunoe1rxc-p608102772-2-202402201537.jpg",
+        "/assets/products/birdshala-hanging-bird-feeder-for-water-seed-bird-bath-trey-for-hanging-on-your-balcony-trees-garden-1-product-images-orvunoe1rxc-p608102772-3-202402201537.jpg"
+      ],
+      "reviews": 2,
+      "description": "High quality : This hanging bird bath with three chains and a hook. Bird bath is made of high quality plastic-PP resin and stainless steel respectively. It is strong and durable, corrosion-resistant, not easily deformed, breathable, biodegradable, water-saving and drought-resistant, and light-transmitting. Hanging bird feeder provide a place for birds to drink and clean themselves, while helping to attract more birds to the area and bring a touch of fun to our lives. Functional Versatility: The design of the bath hanging makes it easy to consume from all angles. The perfect use of jubilee clasp to firmly fasten the basin."
+    },
+    {
+      "id": 1003,
+      "name": "BIRDSHALA Organic Bird NEST Large Size, Set of 2 Purely Made by Bird Building Technique Bird House (Hanging, Wall Mounting, Tree Mounting) (Pack of 2)",
+      "brand": "BIRDSHALA",
+      "categoryId": 20,
+      "subcategoryId": 101,
+      "price": 199,
+      "discount": 80,
+      "originalPrice": 999,
+      "image": [
+        "/assets/products/birdshala-organic-bird-nest-large-size-set-of-2-purely-made-by-bird-building-technique-bird-house-hanging-wall-mounting-tree-mounting-pack-of-2-product-images-orvxfkbg1iq-p608102357-0-202402201524.jpg",
+        "/assets/products/birdshala-organic-bird-nest-large-size-set-of-2-purely-made-by-bird-building-technique-bird-house-hanging-wall-mounting-tree-mounting-pack-of-2-product-images-orvxfkbg1iq-p608102357-1-202402201524.jpg",
+        "/assets/products/birdshala-organic-bird-nest-large-size-set-of-2-purely-made-by-bird-building-technique-bird-house-hanging-wall-mounting-tree-mounting-pack-of-2-product-images-orvxfkbg1iq-p608102357-2-202402201524.jpg",
+        "/assets/products/birdshala-organic-bird-nest-large-size-set-of-2-purely-made-by-bird-building-technique-bird-house-hanging-wall-mounting-tree-mounting-pack-of-2-product-images-orvxfkbg1iq-p608102357-3-202402201524.jpg"
+      ],
+      "reviews": 10,
+      "description": ""
+    },
+    {
+      "id": 1004,
+      "name": "DHANAK (1Pc ) (Medium) Catnip Fish Toy for Cats Soft and Durable, Interactive Cat Kicker Toys for Indoor Kitten Exercise 8 Inches for All Breeds",
+      "brand": "DHANAK",
+      "categoryId": 20,
+      "subcategoryId": 102,
+      "price": 252,
+      "discount": 68,
+      "originalPrice": 799,
+      "image": [
+        "/assets/products/dhanak-1pc-medium-catnip-fish-toy-for-cats-soft-and-durable-interactive-cat-kicker-toys-for-indoor-kitten-exercise-8-inches-for-all-breeds-product-images-orvrsbgzymq-p610023242-0-202409251205.jpg",
+        "/assets/products/dhanak-1pc-medium-catnip-fish-toy-for-cats-soft-and-durable-interactive-cat-kicker-toys-for-indoor-kitten-exercise-8-inches-for-all-breeds-product-images-orvrsbgzymq-p610023242-1-202409251205.jpg",
+        "/assets/products/dhanak-1pc-medium-catnip-fish-toy-for-cats-soft-and-durable-interactive-cat-kicker-toys-for-indoor-kitten-exercise-8-inches-for-all-breeds-product-images-orvrsbgzymq-p610023242-2-202409251205.jpg",
+        "/assets/products/dhanak-1pc-medium-catnip-fish-toy-for-cats-soft-and-durable-interactive-cat-kicker-toys-for-indoor-kitten-exercise-8-inches-for-all-breeds-product-images-orvrsbgzymq-p610023242-3-202409251205.jpg"
+      ],
+      "reviews": 0,
+      "description": "These catnip fish kicker toys are all made of soft plush material and baby-level cotton, soft and comfortable enough for your feline friends to snuggle and chew. Cats have a natural instinct to pat and pounce. Kitten kicker sticks toy can help cats chase and chew training and stimulate their hunting instincts, help cats grow up better and healthier, and strengthen the interaction between you and cats. These toys come in bright colors, attracting the attention of your feline friends. Perfect for kittens to hold or scratch. Assorted colors will be delivered as per availability.  Package Contents: 1 Piece"
+    },
+    {
+      "id": 1005,
+      "name": "HASTHIP Adjustable Cat Belt, Strong Breakaway Buckle, Cat Collar With Bell, Velvet Neck Strap for Kitten Cat, Safety&Comfort 33.5CM - Red (Pack of 1)",
+      "brand": "HASTHIP",
+      "categoryId": 20,
+      "subcategoryId": 102,
+      "price": 219,
+      "discount": 11,
+      "originalPrice": 248,
+      "image": [
+        "/assets/products/hasthip-adjustable-cat-belt-strong-breakaway-buckle-cat-collar-with-bell-velvet-neck-strap-for-kitten-cat-safety-amp-comfort-33-5cm-red-pack-of-1-product-images-orv4dbg5ab8-p610592880-0-202410221556.jpg",
+        "/assets/products/hasthip-adjustable-cat-belt-strong-breakaway-buckle-cat-collar-with-bell-velvet-neck-strap-for-kitten-cat-safety-amp-comfort-33-5cm-red-pack-of-1-product-images-orv4dbg5ab8-p610592880-1-202410221556.jpg",
+        "/assets/products/hasthip-adjustable-cat-belt-strong-breakaway-buckle-cat-collar-with-bell-velvet-neck-strap-for-kitten-cat-safety-amp-comfort-33-5cm-red-pack-of-1-product-images-orv4dbg5ab8-p610592880-2-202410221556.jpg",
+        "/assets/products/hasthip-adjustable-cat-belt-strong-breakaway-buckle-cat-collar-with-bell-velvet-neck-strap-for-kitten-cat-safety-amp-comfort-33-5cm-red-pack-of-1-product-images-orv4dbg5ab8-p610592880-3-202410221556.jpg"
+      ],
+      "reviews": 1,
+      "description": "Velvet Material: Wrap Your Feline In Comfort With This Plush Red Velvet Cat Collar, Exquisitely Soft To Touch Yet Durable For Daily Wear. Its Delightful Bell Accentuates Your Cat'S Presence, Balancing Elegance With Safety. Fully Adjustable Design: The Cat Collar With Bell Boasting Over 12.5 Inches In Length And A 6-Hole Design For A Customizable Fit. Tailor It Perfectly To Your Cat Size For A Snug, Secure Fit. Pay Attention To Size: This Cat Collar Has A Total Of 6 Holes, Each Hole Is 2Cm Apart, And Can Be Adjusted Five Times. The Minimum Circumference Is 20Cm, And The Maximum Circumference Is 10Cm. Please Measure Your Pet'S Neck Circumference In Advance To Avoid Being Too Long Or Too Short. Safety Breakaway Buckle: It Is Easy To Put On And Put Off With Its Quick Release Feature And Bell Makes It Safe For Cat. The Bell And Collar Are Fixed With Screws, If You Find The Screws Are Loose, Please Tighten Them By Hand. Three Sizes: The Dog Belt Is Designed For Small To Large Size Dogs, 3 Sizes Available. Super Cute And Durable, Great Gift Choice For Your Furry Baby, Birthday, Christmas, Halloween, Etc"
+    },
+    {
+      "id": 1006,
+      "name": "SUPER CHAIN Dog Belt Combo Nylon Collar with Heavy Chain Leash Dog Collar & Leash (Medium, Blue)",
+      "brand": "SUPER CHAIN",
+      "categoryId": 20,
+      "subcategoryId": 103,
+      "price": 149,
+      "discount": 70,
+      "originalPrice": 500,
+      "image": [
+        "/assets/products/super-chain-dog-belt-combo-nylon-collar-with-heavy-chain-leash-dog-collar-leash-medium-blue-product-images-orvadootfkz-p609024445-0-202405191650.png",
+        "/assets/products/super-chain-dog-belt-combo-nylon-collar-with-heavy-chain-leash-dog-collar-leash-medium-blue-product-images-orvadootfkz-p609024445-1-202405191652.png",
+        "/assets/products/super-chain-dog-belt-combo-nylon-collar-with-heavy-chain-leash-dog-collar-leash-medium-blue-product-images-orvadootfkz-p609024445-2-202405191653.png",
+        "/assets/products/super-chain-dog-belt-combo-nylon-collar-with-heavy-chain-leash-dog-collar-leash-medium-blue-product-images-orvadootfkz-p609024445-4-202405191653.png"
+      ],
+      "reviews": 14,
+      "description": "The SUPER CHAIN Wag and Walk Dog Collar & Leash Set just made walks with your favorite furry more comfortable! . The collar and leash can be adjusted to ensure that it fits your dog just right and it is fastened easily with a snap buckle. The leash has a soft, EVA handles to offer you a better grip."
+    },
+    {
+      "id": 1007,
+      "name": "Luvlap Multicolor Jungle Tales Newborn To Toddler Portable Rocker Cum Bouncer",
+      "brand": "LuvLap",
+      "categoryId": 19,
+      "subcategoryId": 101,
+      "price": 2954,
+      "discount": 34,
+      "originalPrice": 4499,
+      "image": [
+        "/assets/products/luvlap-multicolor-jungle-tales-newborn-to-toddler-portable-rocker-cum-bouncer-product-images-orvyioqv8xo-p591276161-0-202205120327.jpg",
+        "/assets/products/luvlap-multicolor-jungle-tales-newborn-to-toddler-portable-rocker-cum-bouncer-product-images-orvyioqv8xo-p591276161-6-202205120327.jpg",
+        "/assets/products/luvlap-multicolor-jungle-tales-newborn-to-toddler-portable-rocker-cum-bouncer-product-images-orvyioqv8xo-p591276161-5-202205120327.jpg",
+        "/assets/products/luvlap-multicolor-jungle-tales-newborn-to-toddler-portable-rocker-cum-bouncer-product-images-orvyioqv8xo-p591276161-3-202205120327.jpg"
+      ],
+      "reviews": 1,
+      "description": "Lifes little stories bloom with coming of the little one in your life. It completes your life with many joys of parenthood. For baby its the next best thing to being in your arms. Entertain your little one and give him or her a personaresting place. Luvlaps high chairs, cots, walkers and other indoor products wilhave the whole household floored by babys happy smiles and chuckles. At Luvlap, we endeavour to weave the little stories into our products with an emphasis on child safety and enrichment of features. So that your little one gets the comfort thats next only to the warmth of your lap. Conceived with care and made using the latest marvels of science, all Luvlap products undergo multiple quality checks before they are dispatched to the stores."
+    },
+    {
+      "id": 1008,
+      "name": "Luvlap Multicolor Magic Circus Baby Bouncer With Soothing Vibration And Music",
+      "brand": "LuvLap",
+      "categoryId": 19,
+      "subcategoryId": 101,
+      "price": 2599,
+      "discount": 34,
+      "originalPrice": 3949,
+      "image": [
+        "/assets/products/luvlap-multicolor-magic-circus-baby-bouncer-with-soothing-vibration-and-music-product-images-orv3p7mulrl-p591276067-1-202205120321.jpg",
+        "/assets/products/luvlap-multicolor-magic-circus-baby-bouncer-with-soothing-vibration-and-music-product-images-orv3p7mulrl-p591276067-0-202205120321.jpg",
+        "/assets/products/luvlap-multicolor-magic-circus-baby-bouncer-with-soothing-vibration-and-music-product-images-orv3p7mulrl-p591276067-4-202205120322.jpg",
+        "/assets/products/luvlap-multicolor-magic-circus-baby-bouncer-with-soothing-vibration-and-music-product-images-orv3p7mulrl-p591276067-3-202205120322.jpg"
+      ],
+      "reviews": 1,
+      "description": "Lifes little stories bloom with coming of the little one in your life. It completes your life with many joys of parenthood. For baby its the next best thing to being in your arms. Entertain your little one and give him or her a personaresting place. Luvlaps high chairs, cots, walkers and other indoor products wilhave the whole household floored by babys happy smiles and chuckles. At Luvlap, we endeavour to weave the little stories into our products with an emphasis on child safety and enrichment of features. So that your little one gets the comfort thats next only to the warmth of your lap. Conceived with care and made using the latest marvels of science, all Luvlap products undergo multiple quality checks before they are dispatched to the stores."
+    },
+    {
+      "id": 1009,
+      "name": "BUMTUM Dancing Singing Cactus Toy For Baby Wriggle Children Voice Recording Repeats",
+      "brand": "BUMTUM",
+      "categoryId": 19,
+      "subcategoryId": 102,
+      "price": 499,
+      "discount": 66,
+      "originalPrice": 1499,
+      "image": [
+        "/assets/products/bumtum-dancing-singing-cactus-toy-for-baby-wriggle-children-voice-recording-repeats-product-images-orvlzgr6bgl-p604561972-0-202504291908.jpg",
+        "/assets/products/bumtum-dancing-singing-cactus-toy-for-baby-wriggle-children-voice-recording-repeats-product-images-orvlzgr6bgl-p604561972-1-202504291908.jpg",
+        "/assets/products/bumtum-dancing-singing-cactus-toy-for-baby-wriggle-children-voice-recording-repeats-product-images-orvlzgr6bgl-p604561972-2-202504291908.jpg",
+        "/assets/products/bumtum-dancing-singing-cactus-toy-for-baby-wriggle-children-voice-recording-repeats-product-images-orvlzgr6bgl-p604561972-3-202504291908.jpg"
+      ],
+      "reviews": 67,
+      "description": "Fun and Entertaining: This Dancing Cactus toy comes to life, grooves with you to catchy tunes and shows off its dance moves. Interactive Feature: Tap the button on the cactus's hand, and it will start wiggling, swaying, and singing along to the music. It's guaranteed to bring laughter and joy to everyone around High-Quality Construction: It is made from premium materials, ensuring durability and long-lasting fun. It's designed to withstand hours of dancing and playtime with your little one. Made of soft and comfortable plush fabric, colorless and tasteless, it is skin‑friendly and is safe and hygienic. Interactive- This toy can dance, sing, move, turn around and talk back. With the singing and humorous dancing. dances on latest tunes - Sings Multiple Cheery Songs, Repeats What You Say, This cactus plant toy can dance with the rhythm of the Song. Gifitng option: Great gift, cactus plush toys are the best holiday and birthday gifts for children. Adults can also decompress."
+    },
+    {
+      "id": 1010,
+      "name": "BUMTUM Baby Stroller For 0 to 3 years, Adjustable Backrest, Large Storage Basket(Blue)",
+      "brand": "BUMTUM",
+      "categoryId": 19,
+      "subcategoryId": 103,
+      "price": 5999,
+      "discount": 50,
+      "originalPrice": 11999,
+      "image": [
+        "/assets/products/bumtum-baby-stroller-for-0-to-3-years-adjustable-backrest-large-storage-basket-blue-product-images-orvvxq6ig7d-p607370879-0-202401160523.jpg",
+        "/assets/products/bumtum-baby-stroller-for-0-to-3-years-adjustable-backrest-large-storage-basket-blue-product-images-orvvxq6ig7d-p607370879-1-202401160523.jpg",
+        "/assets/products/bumtum-baby-stroller-for-0-to-3-years-adjustable-backrest-large-storage-basket-blue-product-images-orvvxq6ig7d-p607370879-2-202401160523.jpg",
+        "/assets/products/bumtum-baby-stroller-for-0-to-3-years-adjustable-backrest-large-storage-basket-blue-product-images-orvvxq6ig7d-p607370879-3-202401160523.jpg"
+      ],
+      "reviews": 1,
+      "description": "Baby Stroller"
+    },
+    {
+      "id": 1011,
+      "name": "BLISS & BLUSH Washing Machine Liquid Detergent 10 liter For Removing Tough Stains, Liquid Detergent - Front Load Washing Machines",
+      "brand": "BLISS & BLUSH",
+      "categoryId": 17,
+      "subcategoryId": 101,
+      "price": 549,
+      "discount": 65,
+      "originalPrice": 1599,
+      "image": [
+        "/assets/products/bliss-blush-washing-machine-liquid-detergent-10-liter-for-removing-tough-stains-liquid-detergent-front-load-washing-machines-product-images-orvhmcw56jl-p609340622-0-202410151800.png",
+        "/assets/products/bliss-blush-washing-machine-liquid-detergent-10-liter-for-removing-tough-stains-liquid-detergent-front-load-washing-machines-product-images-orvhmcw56jl-p609340622-3-202410151800.png",
+        "/assets/products/bliss-blush-washing-machine-liquid-detergent-10-liter-for-removing-tough-stains-liquid-detergent-front-load-washing-machines-product-images-orvhmcw56jl-p609340622-2-202410151800.png",
+        "/assets/products/bliss-blush-washing-machine-liquid-detergent-10-liter-for-removing-tough-stains-liquid-detergent-front-load-washing-machines-product-images-orvhmcw56jl-p609340622-4-202410151800.png"
+      ],
+      "reviews": 90,
+      "description": "Liquid Detergent for Bucket & Machine Wash, No Soda Formula, with Added Fabric Conditioner (5 L) Liy-Fragrance Liquid Detergent. It has an added fabric conditioner that softens the fabric and leave your clothes with a lingering fragrance. It is a low foaming product specially designed for Washing Machines.For Usage, Add 8ml (1½ Teaspoon) of the laundry detergent & sanitizer to a gallon (3.79 liters) of water and soak the clothes for half an hour and wash the usual way. Being liquid detergent it dissolves quickly in high water level environment of washing machines, reaches stains effortlessly and leaves no residue on clothes or in machine.This Detergent Liquid gives tough stain removal in just 1 wash. It removes tough stains yet remains gentle on skin. This Laundry Detergent can be used for hand as well as machine wash. dishwash gel remove toughest stain on the utensils. as compared to dish wash powder or soap dish wash gel is hygienic. dish cleaning gel leaves no spot or mark because it dissolved 100%, all the product safe on hand and pH value is also maintained."
+    },
+    {
+      "id": 1012,
+      "name": "Blue Advance Detergent Powder 5Kg + 5Kg Free Detergent Powder - 10 Kg Family Pack",
+      "brand": "BLUE ADVANCE DETERGENT POWDER",
+      "categoryId": 17,
+      "subcategoryId": 101,
+      "price": 697,
+      "discount": 45,
+      "originalPrice": 1390,
+      "image": [
+        "/assets/products/blue-advance-detergent-powder-5kg-5kg-free-detergent-powder-10-kg-family-pack-product-images-orvihx7eq4r-p609028369-0-202405211404.jpg",
+        "/assets/products/blue-advance-detergent-powder-5kg-5kg-free-detergent-powder-10-kg-family-pack-product-images-orvihx7eq4r-p609028369-2-202405211404.jpg",
+        "/assets/products/blue-advance-detergent-powder-5kg-5kg-free-detergent-powder-10-kg-family-pack-product-images-orvihx7eq4r-p609028369-3-202405211405.jpg",
+        "/assets/products/blue-advance-detergent-powder-5kg-5kg-free-detergent-powder-10-kg-family-pack-product-images-orvihx7eq4r-p609028369-6-202405211405.jpg"
+      ],
+      "reviews": 902,
+      "description": "Blue Advance Detergent Powder is a high-performance laundry detergent designed to deliver superior cleaning power for all your laundry needs. Formulated with advanced stain-fighting enzymes and brightening agents, this detergent ensures that your clothes come out looking fresh and vibrant after each wash."
+    },
+    {
+      "id": 1013,
+      "name": "Pril Lime Liquid Dishwash Gel - 2L Pouch | Dish Cleaning Liquid Gel with German Technology - Active Power Molecules Leaves No Residue, Grease Cleaner For All Utensils",
+      "brand": "Pril",
+      "categoryId": 17,
+      "subcategoryId": 102,
+      "price": 275,
+      "discount": 42,
+      "originalPrice": 475,
+      "image": [
+        "/assets/products/pril-lime-liquid-dishwash-gel-2l-pouch-dish-cleaning-liquid-gel-with-german-technology-active-power-molecules-leaves-no-residue-grease-cleaner-for-all-utensils-product-images-orv1jd13chr-p609594452-0-202502101826.jpg",
+        "/assets/products/pril-lime-liquid-dishwash-gel-2l-pouch-dish-cleaning-liquid-gel-with-german-technology-active-power-molecules-leaves-no-residue-grease-cleaner-for-all-utensils-product-images-orv1jd13chr-p609594452-1-202407292030.jpg",
+        "/assets/products/pril-lime-liquid-dishwash-gel-2l-pouch-dish-cleaning-liquid-gel-with-german-technology-active-power-molecules-leaves-no-residue-grease-cleaner-for-all-utensils-product-images-orv1jd13chr-p609594452-2-202407292030.jpg",
+        "/assets/products/pril-lime-liquid-dishwash-gel-2l-pouch-dish-cleaning-liquid-gel-with-german-technology-active-power-molecules-leaves-no-residue-grease-cleaner-for-all-utensils-product-images-orv1jd13chr-p609594452-3-202407292030.jpg"
+      ],
+      "reviews": 1307,
+      "description": "Pril Lime is a superior degreasing utensil cleaner liquid. It has Active Power Molecules that helps to remove tough grease with great ease thereby making dishwashing an easy job. It has unique formulation ensures that it doesn't damage the surface while being tough on grease."
+    },
+    {
+      "id": 1014,
+      "name": "Lizol 5 litre Disinfectant Surface & Floor Cleaner Liquid, Citrus - 5 Litre",
+      "brand": "Lizol",
+      "categoryId": 17,
+      "subcategoryId": 103,
+      "price": 689,
+      "discount": 27,
+      "originalPrice": 974,
+      "image": [
+        "/assets/products/lizol-disinfectant-surface-floor-cleaner-liquid-citrus-5-litre-product-images-orvtmfjuxuo-p601213316-0-202403271318.jpg",
+        "/assets/products/lizol-disinfectant-surface-floor-cleaner-liquid-citrus-5-litre-product-images-orvtmfjuxuo-p601213316-1-202403271318.jpg",
+        "/assets/products/lizol-disinfectant-surface-floor-cleaner-liquid-citrus-5-litre-product-images-orvtmfjuxuo-p601213316-2-202403271319.jpg",
+        "/assets/products/lizol-disinfectant-surface-floor-cleaner-liquid-citrus-5-litre-product-images-orvtmfjuxuo-p601213316-3-202403271319.jpg"
+      ],
+      "reviews": 1755,
+      "description": "Disclaimer- Image is for illustration purpose only. Lizol is India's No.1 Household Cleaning Brand, highly recommended by the Indian Medical Association. Lizol guarantees to kill 99.99% of disease-causing bacteria as well as germs while leaving your room smelling fragrant with a wide variety of aromas. This cleaner removes 100 types of Stains & Germs and leaves a Pleasant Fragrance. Available Variants are Pine, Floral, Citrus, Jasmine, Lavender, Sandal and Neem in the sizes: 200 ml, 500 ml, 1L, 1.8L Refill, 2L and 5L. #Reckitt Benckiser calculation based on data reported by NielsenIQ through its Retail Index Service for the Cleaners-Floor Category, value for the 12-month ending June 30, 2022, for the India (U+R) market."
+    },
+    {
+      "id": 1015,
+      "name": "Bajaj New Shakti, 15 litres, 2000 Watt Storage Water Heater, Glass Lined Coating, 4 Star Rated, White",
+      "brand": "Bajaj",
+      "categoryId": 14,
+      "subcategoryId": 101,
+      "price": 8997,
+      "discount": 37,
+      "originalPrice": 14300,
+      "image": [
+        "/assets/products/bajaj-new-shakti-15-litres-2000-watt-storage-water-heater-glass-lined-coating-4-star-rated-white-digital-o491166983-p590040540-0-202410281826.jpeg",
+        "/assets/products/bajaj-new-shakti-15-litres-2000-watt-storage-water-heater-glass-lined-coating-4-star-rated-white-digital-o491166983-p590040540-1-202410281826.jpeg",
+        "/assets/products/bajaj-new-shakti-15-litres-2000-watt-storage-water-heater-glass-lined-coating-4-star-rated-white-digital-o491166983-p590040540-2-202410281826.jpeg",
+        "/assets/products/bajaj-new-shakti-15-litres-2000-watt-storage-water-heater-glass-lined-coating-4-star-rated-white-digital-o491166983-p590040540-4-202410281826.jpeg"
+      ],
+      "reviews": 82,
+      "description": "This Bajaj New Shakti Water Heater image is for illustration purpose only. Actual image may vary. SUITABLE FOR HIGH RISE BUILDINGS -> With 8 Bar pressure, the water heater can withstand pressure up to 8.0 kg/cm2 and is well suitable for high rise building."
+    },
+    {
+      "id": 1016,
+      "name": "Bajaj Shakti PC Deluxe, 25 Litres, 2000 Watt, Verical Storage Water Heater, Glass Lined Coated Tank, 4-in-1 Multifunctional Safety Valve, Grey",
+      "brand": "Bajaj",
+      "categoryId": 14,
+      "subcategoryId": 101,
+      "price": 6399,
+      "discount": 33,
+      "originalPrice": 9650,
+      "image": [
+        "/assets/products/bajaj-shakti-pc-deluxe-25-litres-verical-storage-water-heater-with-glass-lined-coated-tank-grey-digital-o492284088-p590910573-0-202111270047.jpeg",
+        "/assets/products/bajaj-shakti-pc-deluxe-25-litres-verical-storage-water-heater-with-glass-lined-coated-tank-grey-digital-o492284088-p590910573-1-202111270047.jpeg",
+        "/assets/products/bajaj-shakti-pc-deluxe-25-litres-verical-storage-water-heater-with-glass-lined-coated-tank-grey-digital-o492284088-p590910573-2-202111270047.jpeg",
+        "/assets/products/bajaj-shakti-pc-deluxe-25-litres-verical-storage-water-heater-with-glass-lined-coated-tank-grey-digital-o492284088-p590910573-3-202111270047.jpeg"
+      ],
+      "reviews": 27,
+      "description": "This Bajaj Shakti PC Deluxe Storage 25 Litre Verical 4 Star Water Heater image is for illustration purpose only. Actual image may vary."
+    },
+    {
+      "id": 1017,
+      "name": "Bajaj Room Heater RHT2C 900 Watts With Carbon Rod",
+      "brand": "Bajaj",
+      "categoryId": 14,
+      "subcategoryId": 102,
+      "price": 4599,
+      "discount": 34,
+      "originalPrice": 6990,
+      "image": [
+        "/assets/products/bajaj-room-heater-rht2c-900-watts-with-carbon-rod-digital-o494227214-p606180417-0-202311181442.jpeg"
+      ],
+      "reviews": 2,
+      "description": "Bajaj Room Heater RHT2C 900 Watts With Carbon Rod."
+    },
+    {
+      "id": 1018,
+      "name": "Addo Electro 1400VA-12V Square Wave Home UPS | Inverter for Home, Office & Shops with 36 Months Warranty | 10 Years Warranty on Transformer",
+      "brand": "ADDO",
+      "categoryId": 14,
+      "subcategoryId": 103,
+      "price": 10800,
+      "discount": 5,
+      "originalPrice": 10900,
+      "image": [
+        "/assets/products/addo-electro-1400va-12v-square-wave-home-ups-inverter-for-home-office-shops-with-36-months-warranty-10-years-warranty-on-transformer-product-images-orvbsbwqhsn-p611094800-0-202503031434.jpg",
+        "/assets/products/addo-electro-1400va-12v-square-wave-home-ups-inverter-for-home-office-shops-with-36-months-warranty-10-years-warranty-on-transformer-product-images-orvbsbwqhsn-p611094800-1-202503031434.jpg",
+        "/assets/products/addo-electro-1400va-12v-square-wave-home-ups-inverter-for-home-office-shops-with-36-months-warranty-10-years-warranty-on-transformer-product-images-orvbsbwqhsn-p611094800-2-202503031434.jpg",
+        "/assets/products/addo-electro-1400va-12v-square-wave-home-ups-inverter-for-home-office-shops-with-36-months-warranty-10-years-warranty-on-transformer-product-images-orvbsbwqhsn-p611094800-3-202503031434.jpg"
+      ],
+      "reviews": 10,
+      "description": "Addo Electro 1400VA-12V Square Wave Home UPS | Inverter for Home, Office & Shops with 36 Months Warranty | 10 Years Warranty on Transformer."
+    },
+    {
+      "id": 1019,
+      "name": "NutriGlow NATURAL'S Advanced Pro Formula Combo Of Wine, Gold, Diamond Radiance, Papaya and Skin Whitening Facial Kit 60gm Each for Skin Cell Repair, Reduces Pigmentation, All Skin Types (Combo Pack of 5)",
+      "brand": "NutriGlow",
+      "categoryId": 13,
+      "subcategoryId": 101,
+      "price": 270,
+      "discount": 64,
+      "originalPrice": 750,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvdsriahg7/nutriglow-natural-s-advanced-pro-formula-combo-of-wine-gold-diamond-radiance-papaya-and-skin-whitening-facial-kit-60gm-each-for-skin-cell-repair-reduces-pigmentation-all-skin-types-combo-pack-of-5-product-images-orvdsriahg7-p603966867-0-202309131832.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvdsriahg7/nutriglow-natural-s-advanced-pro-formula-combo-of-wine-gold-diamond-radiance-papaya-and-skin-whitening-facial-kit-60gm-each-for-skin-cell-repair-reduces-pigmentation-all-skin-types-combo-pack-of-5-product-images-orvdsriahg7-p603966867-1-202309131832.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvdsriahg7/nutriglow-natural-s-advanced-pro-formula-combo-of-wine-gold-diamond-radiance-papaya-and-skin-whitening-facial-kit-60gm-each-for-skin-cell-repair-reduces-pigmentation-all-skin-types-combo-pack-of-5-product-images-orvdsriahg7-p603966867-2-202309131832.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvdsriahg7/nutriglow-natural-s-advanced-pro-formula-combo-of-wine-gold-diamond-radiance-papaya-and-skin-whitening-facial-kit-60gm-each-for-skin-cell-repair-reduces-pigmentation-all-skin-types-combo-pack-of-5-product-images-orvdsriahg7-p603966867-3-202309131832.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvdsriahg7/nutriglow-natural-s-advanced-pro-formula-combo-of-wine-gold-diamond-radiance-papaya-and-skin-whitening-facial-kit-60gm-each-for-skin-cell-repair-reduces-pigmentation-all-skin-types-combo-pack-of-5-product-images-orvdsriahg7-p603966867-4-202309131832.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 114,
+      "description": "Everyone wants to look half their age in today’s world. However, the tension from our surroundings keeps us binding all the time which increases the visible signs of ageing. This facial kit contains Gold Kesar Firming Mask Pack enriched with orange oil, turmeric extracts & vitamin E which has antiseptic & antibacterial properties."
+    },
+    {
+      "id": 1020,
+      "name": "NutriGlow Wine Facial Kit for Women for Glowing Skin, 6-Pieces Skin Care Set Reduces Wrinkles, Younger Looking Skin, All Skin Types 260gm With Face Massager",
+      "brand": "NutriGlow",
+      "categoryId": 13,
+      "subcategoryId": 101,
+      "price": 382,
+      "discount": 68,
+      "originalPrice": 1200,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvihashysc/nutriglow-wine-facial-kit-for-women-for-glowing-skin-6-pieces-skin-care-set-reduces-wrinkles-younger-looking-skin-all-skin-types-260gm-with-face-massager-product-images-orvihashysc-p603965176-0-202403011210.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvihashysc/nutriglow-wine-facial-kit-for-women-for-glowing-skin-6-pieces-skin-care-set-reduces-wrinkles-younger-looking-skin-all-skin-types-260gm-with-face-massager-product-images-orvihashysc-p603965176-1-202309131858.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvihashysc/nutriglow-wine-facial-kit-for-women-for-glowing-skin-6-pieces-skin-care-set-reduces-wrinkles-younger-looking-skin-all-skin-types-260gm-with-face-massager-product-images-orvihashysc-p603965176-2-202309131858.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvihashysc/nutriglow-wine-facial-kit-for-women-for-glowing-skin-6-pieces-skin-care-set-reduces-wrinkles-younger-looking-skin-all-skin-types-260gm-with-face-massager-product-images-orvihashysc-p603965176-3-202309131858.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvihashysc/nutriglow-wine-facial-kit-for-women-for-glowing-skin-6-pieces-skin-care-set-reduces-wrinkles-younger-looking-skin-all-skin-types-260gm-with-face-massager-product-images-orvihashysc-p603965176-4-202309131858.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvihashysc/nutriglow-wine-facial-kit-for-women-for-glowing-skin-6-pieces-skin-care-set-reduces-wrinkles-younger-looking-skin-all-skin-types-260gm-with-face-massager-product-images-orvihashysc-p603965176-5-202309131858.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 48,
+      "description": "NutriGlow Wine Facial Kit contains Wine Deep Cleanser-50g, Wine Scrub-50g, Wine Nourishing Gel-50g, Wine Cream-50g, Wine Mask Pack 50g, Wine Serum-10ml Step 1 Cleanser - Apply it on the face and neck, massage in upward and outward small circular strokes for 2-3 minutes, and wipe off with moist cotton. Pay special attention to the corners of your nose, hairline, chin, and neck. Step 2 Scrub - Mix the scrub with water to make a paste and apply that all over the face and massage gently in upward and outward circular movements for at least 5-7 minutes then rinse off with cold water. Step 3 Gel - Apply the gel all over the face and neck and massage gently with fingertips till it gets absorbed Step 4 Cream - Take the cream on your fingertips and apply it all over the face and neck, massage with light circular upward for 10-15 minutes. Step 5 Mask - Apply the mask evenly all over the face and neck, avoiding the eye area. Place two wet cotton wool pads over the eyes and relax for 10-15 minutes. Wipe off with a damp tissue and then rinse gently by cold water. Step 6 - Serum Take the required amount of serum in your hand and gently massage all over your face and neck for soft. Our product ranges are made using the raw elements right from scratch and are blended with the extracts of top-quality material."
+    },
+    {
+      "id": 1021,
+      "name": "Lotus Herbals Apriscrub Fresh Apricot Scrub | Natural Exfoliating Face Scrub | Chemical Free | For All Skin Types | 60g (Pack of 3)",
+      "brand": "Lotus Herbals",
+      "categoryId": 13,
+      "subcategoryId": 102,
+      "price": 285,
+      "discount": 17,
+      "originalPrice": 345,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rv7ng9te5y/lotus-herbals-apriscrub-fresh-apricot-scrub-natural-exfoliating-face-scrub-chemical-free-for-all-skin-types-60g-pack-of-3-product-images-orv7ng9te5y-p602836340-0-202306292128.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 43,
+      "description": "To get a refreshed, soft and glowing skin, Lotus Herbals Apriscrub Fresh Apricot Scrub is an perfect scrub for all skin types. This is a unisex scrub and refines the skin efficiently. It is enriched with natural ingredients such as Walnut Shells, Cetyl Alcohol, Elder Flower extracts and Glycerin. It helps to remove the dead cells without affecting your skin.This scrub is effective to provide brighten skin by removing the blackheads from the skin. It cleanses the clogged pores in the skin and restores the moisture. This scrub comes with special oil absorbing and skin softening properties."
+    },
+    {
+      "id": 1022,
+      "name": "L'Oréal Professionnel Absolut Repair Mask for Dry & Damaged Hair - 250ml | Professional mask for Strengthening and Repairing Hair, With Wheat Protein, For Men & Women",
+      "brand": "L'Oréal Professionnel",
+      "categoryId": 13,
+      "subcategoryId": 103,
+      "price": 817,
+      "discount": 5,
+      "originalPrice": 860,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvhp4gl1gj/l-or-al-professionnel-absolut-repair-mask-for-dry-damaged-hair-250ml-professional-mask-for-strengthening-and-repairing-hair-with-wheat-protein-for-men-women-product-images-orvhp4gl1gj-p610825372-0-202502211859.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvhp4gl1gj/l-or-al-professionnel-absolut-repair-mask-for-dry-damaged-hair-250ml-professional-mask-for-strengthening-and-repairing-hair-with-wheat-protein-for-men-women-product-images-orvhp4gl1gj-p610825372-1-202502211859.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvhp4gl1gj/l-or-al-professionnel-absolut-repair-mask-for-dry-damaged-hair-250ml-professional-mask-for-strengthening-and-repairing-hair-with-wheat-protein-for-men-women-product-images-orvhp4gl1gj-p610825372-2-202502211859.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvhp4gl1gj/l-or-al-professionnel-absolut-repair-mask-for-dry-damaged-hair-250ml-professional-mask-for-strengthening-and-repairing-hair-with-wheat-protein-for-men-women-product-images-orvhp4gl1gj-p610825372-3-202502211859.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvhp4gl1gj/l-or-al-professionnel-absolut-repair-mask-for-dry-damaged-hair-250ml-professional-mask-for-strengthening-and-repairing-hair-with-wheat-protein-for-men-women-product-images-orvhp4gl1gj-p610825372-4-202502211859.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvhp4gl1gj/l-or-al-professionnel-absolut-repair-mask-for-dry-damaged-hair-250ml-professional-mask-for-strengthening-and-repairing-hair-with-wheat-protein-for-men-women-product-images-orvhp4gl1gj-p610825372-5-202502211859.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvhp4gl1gj/l-or-al-professionnel-absolut-repair-mask-for-dry-damaged-hair-250ml-professional-mask-for-strengthening-and-repairing-hair-with-wheat-protein-for-men-women-product-images-orvhp4gl1gj-p610825372-6-202502211859.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvhp4gl1gj/l-or-al-professionnel-absolut-repair-mask-for-dry-damaged-hair-250ml-professional-mask-for-strengthening-and-repairing-hair-with-wheat-protein-for-men-women-product-images-orvhp4gl1gj-p610825372-7-202502211859.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 10,
+      "description": "Expert nourishing mask to repair and hydrate damaged hair. Powered by Gold Quinoa and Wheat Protein the L'Oréal Professionnel Serie Expert Absolut Repair nourishing hair mask helps repair damaged hair. It nourishes and strengthens the hair fiber leaving hair feeling soft and hydrated."
+    },
+    {
+      "id": 1023,
+      "name": "Black Magnum Pro IBPM-1 Hard Anodized Matki Pressure Cooker Induction Base, Inner Lid, 3.5 Litres",
+      "brand": "BLACK MAGNUM",
+      "categoryId": 1,
+      "subcategoryId": 101,
+      "price": 1745,
+      "discount": 30,
+      "originalPrice": 2500,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rv770zyurh/black-magnum-pro-ibpm-1-hard-anodized-matki-pressure-cooker-induction-base-inner-lid-3-5-litres-product-images-orv770zyurh-p597845490-0-202301250742.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv770zyurh/black-magnum-pro-ibpm-1-hard-anodized-matki-pressure-cooker-induction-base-inner-lid-3-5-litres-product-images-orv770zyurh-p597845490-1-202301250742.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv770zyurh/black-magnum-pro-ibpm-1-hard-anodized-matki-pressure-cooker-induction-base-inner-lid-3-5-litres-product-images-orv770zyurh-p597845490-2-202301250742.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv770zyurh/black-magnum-pro-ibpm-1-hard-anodized-matki-pressure-cooker-induction-base-inner-lid-3-5-litres-product-images-orv770zyurh-p597845490-3-202301250742.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 10,
+      "description": "Black Magnum Induction Base Hard Anodised Aluminium Inner Lid Pressure Cooker 3.5 Litre is multi-top compatible. Therefore, it can be used on standard gas, induction, halogen, electric, and ceramic cooktops. The base of the cooker remains flat without bulging or becoming concave. This ergonomic pressure cooker maintains its gleam without corroding, which is an indication of its durability. The cooker is easy to clean and simple to maintain. Prepare wholesome and nutritious meals for your loving family and friends"
+    },
+    {
+      "id": 1024,
+      "name": "Black Magnum Basics IBMBL-3, 6 Liter Cook n Serve Bowl with Lid, Sauce Pan , Black",
+      "brand": "BLACK MAGNUM",
+      "categoryId": 1,
+      "subcategoryId": 101,
+      "price": 1675,
+      "discount": 30,
+      "originalPrice": 2400,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvd6lcsusp/black-magnum-basics-ibmbl-3-6-liter-cook-n-serve-bowl-with-lid-sauce-pan-black-product-images-orvd6lcsusp-p597859634-0-202301251523.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvd6lcsusp/black-magnum-basics-ibmbl-3-6-liter-cook-n-serve-bowl-with-lid-sauce-pan-black-product-images-orvd6lcsusp-p597859634-1-202301251523.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvd6lcsusp/black-magnum-basics-ibmbl-3-6-liter-cook-n-serve-bowl-with-lid-sauce-pan-black-product-images-orvd6lcsusp-p597859634-2-202301251523.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvd6lcsusp/black-magnum-basics-ibmbl-3-6-liter-cook-n-serve-bowl-with-lid-sauce-pan-black-product-images-orvd6lcsusp-p597859634-3-202301251523.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 10,
+      "description": "Hard Anodized Cook n Serve Bowls are ideal to cook, a wide range of Indian & Western Dishes, to Boil Milk and to Cook Boiled Rice. The flat base of Cook n Serve Bowls spread heat evenly and retain warmth for a long time - making them excellent utensils for both cooking and serving. Cooking and Serving in the same bowl makes good sense - the food stays hot for longer time and you have less to clean up and need less space to store it. The Hard Anodised Finish on these bowls will stay looking new for years."
+    },
+    {
+      "id": 1025,
+      "name": "Avias Ceres Stainless Steel Outer Lid Pressure Cooker / 2L Cooker/Induction Base / 1.2mm Thickness/Stainless Steel Pressure Cooker 2 Litres",
+      "brand": "AVIAS",
+      "categoryId": 1,
+      "subcategoryId": 101,
+      "price": 1960,
+      "discount": 17,
+      "originalPrice": 2390,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvguc2t9d1/avias-ceres-stainless-steel-outer-lid-pressure-cooker-2l-cooker-induction-base-1-2mm-thickness-stainless-steel-pressure-cooker-2-litres-product-images-orvguc2t9d1-p610641188-0-202411111757.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvguc2t9d1/avias-ceres-stainless-steel-outer-lid-pressure-cooker-2l-cooker-induction-base-1-2mm-thickness-stainless-steel-pressure-cooker-2-litres-product-images-orvguc2t9d1-p610641188-1-202411111757.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvguc2t9d1/avias-ceres-stainless-steel-outer-lid-pressure-cooker-2l-cooker-induction-base-1-2mm-thickness-stainless-steel-pressure-cooker-2-litres-product-images-orvguc2t9d1-p610641188-3-202411111757.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvguc2t9d1/avias-ceres-stainless-steel-outer-lid-pressure-cooker-2l-cooker-induction-base-1-2mm-thickness-stainless-steel-pressure-cooker-2-litres-product-images-orvguc2t9d1-p610641188-5-202411111757.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 10,
+      "description": "The Avias Ceres Outer lid Pressure cooker is a thick bottom stainless steel cookware that provides all the necessities that are needed for an ideal kitchen. Because of its high-quality stainless steel, the 304 grade, no adverse health effects result from its use. which also makes it easier to cook with little or no oil and speeds up the cooking process. The mix of sleek style and wholesome cooking in this cooker is ideal. While cooking, the handles remain cool and are comfortable to hold. For a secure and simple cooking experience, the fusible safety valve and gasket release system are a good combination. This stainless steel cookware also includes a standard cover as well as a toughened glass lid. The food's colour, flavour, or texture are unaffected, and it is extremely hygienic."
+    },
+    {
+      "id": 1026,
+      "name": "Avias Ceres Stainless Steel Inner Lid Pressure Cooker / 2L Cooker/Induction Base Cookware / 1.2mm Thickness/Stainless Steel Pressure Cooker 2 Litres",
+      "brand": "AVIAS",
+      "categoryId": 1,
+      "subcategoryId": 101,
+      "price": 2091,
+      "discount": 18,
+      "originalPrice": 2550,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvurucll23/avias-ceres-stainless-steel-inner-lid-pressure-cooker-2l-cooker-induction-base-cookware-1-2mm-thickness-stainless-steel-pressure-cooker-2-litres-product-images-orvurucll23-p610639511-0-202411111520.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvurucll23/avias-ceres-stainless-steel-inner-lid-pressure-cooker-2l-cooker-induction-base-cookware-1-2mm-thickness-stainless-steel-pressure-cooker-2-litres-product-images-orvurucll23-p610639511-2-202411111520.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvurucll23/avias-ceres-stainless-steel-inner-lid-pressure-cooker-2l-cooker-induction-base-cookware-1-2mm-thickness-stainless-steel-pressure-cooker-2-litres-product-images-orvurucll23-p610639511-4-202411111520.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvurucll23/avias-ceres-stainless-steel-inner-lid-pressure-cooker-2l-cooker-induction-base-cookware-1-2mm-thickness-stainless-steel-pressure-cooker-2-litres-product-images-orvurucll23-p610639511-6-202411111520.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 10,
+      "description": "You may discover all the necessities for your ideal kitchen in the Avias Ceres inner lid pressure cooker is thick bottom stainless steel cookware. Because it is food-quality stainless steel, the 304 stainless steel grade, no adverse health effects result from its use. which also makes it easier to cook with little or no oil and speeds up the cooking process. The mix of sleek style and wholesome cooking in this cooker is ideal. While cooking, the handles remain cool and are comfortable to hold. For a secure and simple cooking This stainless steel cookware also includes a standard cover as well as a toughened glass lid. The food's color, flavor, or texture are unaffected, and it is extremely hygienic."
+    },
+    {
+      "id": 1027,
+      "name": "Nirlon Red Aluminum 3-Piece Non-Stick Mini Cookware Set Tawa 24 cm Fry Pan 20 cm Kadhai 18.5 cm",
+      "brand": "Nirlon",
+      "categoryId": 1,
+      "subcategoryId": 102,
+      "price": 599,
+      "discount": 82,
+      "originalPrice": 3415,
+      "image": [
+        "https://www.jiomart.com/images/product/original/493830167/nirlon-red-aluminium-non-stick-cookware-set-3-pcs-product-images-o493830167-p602022890-0-202305311112.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493830167/nirlon-red-aluminium-non-stick-cookware-set-3-pcs-product-images-o493830167-p602022890-1-202305311112.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493830167/nirlon-red-aluminium-non-stick-cookware-set-3-pcs-product-images-o493830167-p602022890-2-202305311112.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493830167/nirlon-red-aluminium-non-stick-cookware-set-3-pcs-product-images-o493830167-p602022890-3-202305311112.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493830167/nirlon-red-aluminium-3-piece-non-stick-cookware-set-product-images-o493830167-p602022890-4-202402081611.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 1448,
+      "description": "Discover the Nirlon aluminum non-stick cookware set: a stylish and durable addition to your kitchen. Crafted from high-quality material, it ensures longevity and perfect grip with its sleek design and elegant handles. With its superior non-stick performance, this set redefines cooking standards for a memorable dining experience."
+    },
+    {
+      "id": 1028,
+      "name": "Nirlon Grill Casting Coated Aluminium Uttapam Tawa/Multi Snack Maker/Pancake Maker (19cm, Non-Stick)",
+      "brand": "Nirlon",
+      "categoryId": 1,
+      "subcategoryId": 102,
+      "price": 299,
+      "discount": 69,
+      "originalPrice": 975,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvddyk1bji/nirlon-grill-casting-coated-aluminium-uttapam-tawa-multi-snack-maker-pancake-maker-19cm-non-stick-product-images-orvddyk1bji-p591080535-0-202305280246.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvddyk1bji/nirlon-grill-casting-coated-aluminium-uttapam-tawa-multi-snack-maker-pancake-maker-19cm-non-stick-product-images-orvddyk1bji-p591080535-1-202305280246.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvddyk1bji/nirlon-grill-casting-coated-aluminium-uttapam-tawa-multi-snack-maker-pancake-maker-19cm-non-stick-product-images-orvddyk1bji-p591080535-2-202305280246.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 945,
+      "description": "Nirlon Uttapam / Snack maker is a useful addition to your kitchen space. The unique base at the bottom of this pan ensures even heating across all 4 compartments, helping you prepare delicious snacks without spending much time in the kitchen. The ergonomic handle of this pan features for additional strength and durability. Featuring a unique quick snack maker with 4 layer nonstick coating with 4 separate compartments for making various snacks such as dosas, parathas, uttapam, pancakes, chilas and many more dishes."
+    },
+    {
+      "id": 1029,
+      "name": "Prestige OMG Festival Aluminium Blue Non Stick Cookware Set (Pack of 3)",
+      "brand": "Prestige",
+      "categoryId": 1,
+      "subcategoryId": 102,
+      "price": 1352,
+      "discount": 54,
+      "originalPrice": 2995,
+      "image": [
+        "https://www.jiomart.com/images/product/original/494240977/prestige-omg-festival-aluminium-blue-non-stick-cookware-set-pack-of-3-product-images-o494240977-p605397582-0-202310031039.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494240977/prestige-omg-festival-aluminium-blue-non-stick-cookware-set-pack-of-3-product-images-o494240977-p605397582-1-202310031039.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494240977/prestige-omg-festival-aluminium-blue-non-stick-cookware-set-pack-of-3-product-images-o494240977-p605397582-2-202310031039.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494240977/prestige-omg-festival-aluminium-blue-non-stick-cookware-set-pack-of-3-product-images-o494240977-p605397582-3-202310031039.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494240977/prestige-omg-festival-aluminium-blue-non-stick-cookware-set-pack-of-3-product-images-o494240977-p605397582-9-202310031040.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 109,
+      "description": "Cookware and bakeware are food preparation equipment, such as cooking pots, pans, baking sheets, etc. used in kitchens. Cookware is used on a stove or range cooktop. The Cookware set consists of a Tawa, Kadhai, and Fry pan with a lid. It can be used to cook a variety of delicious food and will suit all needs. So what are you waiting for? Go ahead and buy this product online today!"
+    },
+    {
+      "id": 1030,
+      "name": "Prestige Décor Black Cookware Sets (Pack of 3)",
+      "brand": "Prestige",
+      "categoryId": 1,
+      "subcategoryId": 102,
+      "price": 1645,
+      "discount": 56,
+      "originalPrice": 3740,
+      "image": [
+        "https://www.jiomart.com/images/product/original/493831244/prestige-d-cor-black-cookware-sets-pack-of-3-product-images-o493831244-p603968575-0-202308181759.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493831244/prestige-d-cor-black-cookware-sets-pack-of-3-product-images-o493831244-p603968575-1-202308181759.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493831244/prestige-d-cor-black-cookware-sets-pack-of-3-product-images-o493831244-p603968575-2-202308181759.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493831244/prestige-d-cor-black-cookware-sets-pack-of-3-product-images-o493831244-p603968575-3-202308181759.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 35,
+      "description": "Prestige Décor Black Cookware Sets consist of 1 tawa of 250 mm, 1 fry pan of 240 mm, 1 Kadhai of 240 mm, and 1 Glass Lid of 240 mm . The various cookware can be used to cook various dishes and will suit all your needs in the kitchen. So what are you waiting for? Go ahead and buy this product online today!"
+    },
+    {
+      "id": 1031,
+      "name": "Prestige Premia Schott Glass Top Gas Stove 4 Burners GTS-04 (D) (Black)",
+      "brand": "Prestige",
+      "categoryId": 1,
+      "subcategoryId": 103,
+      "price": 12300,
+      "discount": 24,
+      "originalPrice": 16395,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvblznbxl8/prestige-premia-schott-glass-top-gas-stove-4-burners-gts-04-d-black-product-images-orvblznbxl8-p602085801-0-202306021411.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvblznbxl8/prestige-premia-schott-glass-top-gas-stove-4-burners-gts-04-d-black-product-images-orvblznbxl8-p602085801-1-202306021411.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvblznbxl8/prestige-premia-schott-glass-top-gas-stove-4-burners-gts-04-d-black-product-images-orvblznbxl8-p602085801-2-202306021411.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvblznbxl8/prestige-premia-schott-glass-top-gas-stove-4-burners-gts-04-d-black-product-images-orvblznbxl8-p602085801-3-202306021411.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvblznbxl8/prestige-premia-schott-glass-top-gas-stove-4-burners-gts-04-d-black-product-images-orvblznbxl8-p602085801-4-202306021411.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 1,
+      "description": "With over 125 years of experience in developing the world's finest glass, SCHOTT is the leading manufacturer worldwide. Now, Prestige brings to you an exquisite gas table with the renowned German SCHOTT glass-top. The modern designs and stylish looks of this gas table are sure to bring class to your kitchen. Adding to that, SCHOTT glass surface is designed to withstand thermal shocks and mechanical impacts more than any other glass."
+    },
+    {
+      "id": 1032,
+      "name": "Prestige Efficia Toughened Black Glass-Top Manual LP Gas Stove 3 Burners Powder-Coated Body Black",
+      "brand": "Prestige",
+      "categoryId": 1,
+      "subcategoryId": 103,
+      "price": 4980,
+      "discount": 25,
+      "originalPrice": 6645,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvcax9mlm9/prestige-efficia-toughened-black-glass-top-manual-lp-gas-stove-3-burners-powder-coated-body-black-product-images-orvcax9mlm9-p610916630-0-202501271149.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvcax9mlm9/prestige-efficia-toughened-black-glass-top-manual-lp-gas-stove-3-burners-powder-coated-body-black-product-images-orvcax9mlm9-p610916630-1-202501271149.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvcax9mlm9/prestige-efficia-toughened-black-glass-top-manual-lp-gas-stove-3-burners-powder-coated-body-black-product-images-orvcax9mlm9-p610916630-2-202501271149.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvcax9mlm9/prestige-efficia-toughened-black-glass-top-manual-lp-gas-stove-3-burners-powder-coated-body-black-product-images-orvcax9mlm9-p610916630-3-202501271149.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvcax9mlm9/prestige-efficia-toughened-black-glass-top-manual-lp-gas-stove-3-burners-powder-coated-body-black-product-images-orvcax9mlm9-p610916630-4-202501271149.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvcax9mlm9/prestige-efficia-toughened-black-glass-top-manual-lp-gas-stove-3-burners-powder-coated-body-black-product-images-orvcax9mlm9-p610916630-5-202501271149.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvcax9mlm9/prestige-efficia-toughened-black-glass-top-manual-lp-gas-stove-3-burners-powder-coated-body-black-product-images-orvcax9mlm9-p610916630-6-202501271149.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 10,
+      "description": "Spill-Proof Design- For Hassle-Free Cooking And A Cleaner Kitchen, Ergonomic Knob Design- Makes Turning The Knob, Easy On The Fingers, Toughened Black Glass-Top- Resists Scratches And Withstands Everyday Wear And Tear, Brass Burners- For High Efficiency And Faster Cooking, 3 Way Gas Inlet- Convenience And Flexibility With Our 3 Way Gas Inlet, Baati/Tandoor Stand Inside, 2 Years Warranty On Product And 5 Years On Glass, Isi Certified, Made In India."
+    },
+    {
+      "id": 1033,
+      "name": "Kraft Italy 4 BURNER Gas stove NOVA Glass Automatic Gas Stove (4 Burners) (NOVA)",
+      "brand": "KRAFT ITALY",
+      "categoryId": 1,
+      "subcategoryId": 103,
+      "price": 14500,
+      "discount": 41,
+      "originalPrice": 24930,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvzmie6rxp/kraft-italy-4-burner-gas-stove-nova-glass-automatic-gas-stove-4-burners-nova-product-images-orvzmie6rxp-p608473677-0-202403180142.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvzmie6rxp/kraft-italy-4-burner-gas-stove-nova-glass-automatic-gas-stove-4-burners-nova-product-images-orvzmie6rxp-p608473677-1-202403180142.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvzmie6rxp/kraft-italy-4-burner-gas-stove-nova-glass-automatic-gas-stove-4-burners-nova-product-images-orvzmie6rxp-p608473677-2-202403180142.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvzmie6rxp/kraft-italy-4-burner-gas-stove-nova-glass-automatic-gas-stove-4-burners-nova-product-images-orvzmie6rxp-p608473677-3-202403180142.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 10,
+      "description": "Upgrade your kitchen with the Nova Glass Automatic Gas Stove, a sleek and efficient appliance designed to streamline your cooking experience. Featuring four burners and a stylish glass top, this gas stove combines modern aesthetics with high-performance functionality. Efficient Cooking: With four burners, including high-efficiency brass burners, this gas stove allows you to multitask and cook multiple dishes simultaneously, saving you time and effort in the kitchen. Sleek Design: The glass top adds a touch of sophistication to your kitchen decor while providing durability and easy maintenance. Its smooth surface is not only stylish but also easy to clean, making it a practical choice for everyday use."
+    },
+    {
+      "id": 1034,
+      "name": "Kraft Italy HOB KFH - G002 [78] Stainless Steel Manual Hob Gas stove (2 Burner)",
+      "brand": "KRAFT ITALY",
+      "categoryId": 1,
+      "subcategoryId": 103,
+      "price": 12880,
+      "discount": 49,
+      "originalPrice": 25510,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rv7nuk44ux/kraft-italy-hob-kfh-g002-78-stainless-steel-manual-hob-gas-stove-2-burner-product-images-orv7nuk44ux-p608473599-0-202403180242.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv7nuk44ux/kraft-italy-hob-kfh-g002-78-stainless-steel-manual-hob-gas-stove-2-burner-product-images-orv7nuk44ux-p608473599-1-202403180242.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv7nuk44ux/kraft-italy-hob-kfh-g002-78-stainless-steel-manual-hob-gas-stove-2-burner-product-images-orv7nuk44ux-p608473599-2-202403180242.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 10,
+      "description": "Upgrade your kitchen with our range of Manual Hob Gas Stoves, designed to bring convenience, efficiency, and style to your cooking space. Our gas stoves offer a perfect blend of performance and aesthetics, making them an ideal choice for modern kitchens. Key Features: Efficient Cooking: Our manual hob gas stoves provide instant heat, allowing you to cook your favorite meals quickly and efficiently. Precise Control: With easy-to-use knobs, you can adjust the flame intensity with precision, giving you complete control over your cooking. Durable Construction: Crafted from high-quality materials, our gas stoves are built to last, ensuring years of reliable performance. Sleek Design: Featuring a sleek and contemporary design, our gas stoves add a touch of elegance to any kitchen decor."
+    },
+    {
+      "id": 1035,
+      "name": "Prestige Hard Anodised Induction Base Multi-Kadai with Glass Lid (Dhokla Plate, Patra Plate, Idli Plates), 22cm (Black)",
+      "brand": "Prestige",
+      "categoryId": 1,
+      "subcategoryId": 104,
+      "price": 2200,
+      "discount": 20,
+      "originalPrice": 2755,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvspe2uvxe/prestige-hard-anodised-induction-base-multi-kadai-with-glass-lid-dhokla-plate-patra-plate-idli-plates-22cm-black-product-images-orvspe2uvxe-p602617942-0-202306241003.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvspe2uvxe/prestige-hard-anodised-induction-base-multi-kadai-with-glass-lid-dhokla-plate-patra-plate-idli-plates-22cm-black-product-images-orvspe2uvxe-p602617942-1-202306241003.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvspe2uvxe/prestige-hard-anodised-induction-base-multi-kadai-with-glass-lid-dhokla-plate-patra-plate-idli-plates-22cm-black-product-images-orvspe2uvxe-p602617942-2-202306241003.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvspe2uvxe/prestige-hard-anodised-induction-base-multi-kadai-with-glass-lid-dhokla-plate-patra-plate-idli-plates-22cm-black-product-images-orvspe2uvxe-p602617942-3-202306241003.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 10,
+      "description": "Made from high quality hard anodised aluminium, the Prestige Multi-Kadai is a true multitasker. Its unique accessories make it ideal for preparing idlis and dhoklas while the round bottom makes it great for preparing curries and deep frying. What’s more, the base is also induction compatible. It s the perfect addition for your kitchen."
+    },
+    {
+      "id": 1036,
+      "name": "Avias Spectra Stainless Steel Steamer / 22cm Steamer for Cooking/Vegetable Idli Modak Momo Steamer/Strong Side Handles for Easy Use/Food Steamer/Cookware Set of 1 / Shiny Mirror Finish / 22cm",
+      "brand": "AVIAS",
+      "categoryId": 1,
+      "subcategoryId": 104,
+      "price": 1349,
+      "discount": 18,
+      "originalPrice": 1700,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rv6ayexydk/avias-spectra-stainless-steel-steamer-22cm-steamer-for-cooking-vegetable-idli-modak-momo-steamer-strong-side-handles-for-easy-use-food-steamer-cookware-set-of-1-shiny-mirror-finish-22cm-product-images-orv6ayexydk-p610628104-0-202411061110.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv6ayexydk/avias-spectra-stainless-steel-steamer-22cm-steamer-for-cooking-vegetable-idli-modak-momo-steamer-strong-side-handles-for-easy-use-food-steamer-cookware-set-of-1-shiny-mirror-finish-22cm-product-images-orv6ayexydk-p610628104-1-202411061110.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv6ayexydk/avias-spectra-stainless-steel-steamer-22cm-steamer-for-cooking-vegetable-idli-modak-momo-steamer-strong-side-handles-for-easy-use-food-steamer-cookware-set-of-1-shiny-mirror-finish-22cm-product-images-orv6ayexydk-p610628104-2-202411061110.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv6ayexydk/avias-spectra-stainless-steel-steamer-22cm-steamer-for-cooking-vegetable-idli-modak-momo-steamer-strong-side-handles-for-easy-use-food-steamer-cookware-set-of-1-shiny-mirror-finish-22cm-product-images-orv6ayexydk-p610628104-3-202411061110.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv6ayexydk/avias-spectra-stainless-steel-steamer-22cm-steamer-for-cooking-vegetable-idli-modak-momo-steamer-strong-side-handles-for-easy-use-food-steamer-cookware-set-of-1-shiny-mirror-finish-22cm-product-images-orv6ayexydk-p610628104-4-202411061110.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv6ayexydk/avias-spectra-stainless-steel-steamer-22cm-steamer-for-cooking-vegetable-idli-modak-momo-steamer-strong-side-handles-for-easy-use-food-steamer-cookware-set-of-1-shiny-mirror-finish-22cm-product-images-orv6ayexydk-p610628104-5-202411061110.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv6ayexydk/avias-spectra-stainless-steel-steamer-22cm-steamer-for-cooking-vegetable-idli-modak-momo-steamer-strong-side-handles-for-easy-use-food-steamer-cookware-set-of-1-shiny-mirror-finish-22cm-product-images-orv6ayexydk-p610628104-6-202411061110.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv6ayexydk/avias-spectra-stainless-steel-steamer-22cm-steamer-for-cooking-vegetable-idli-modak-momo-steamer-strong-side-handles-for-easy-use-food-steamer-cookware-set-of-1-shiny-mirror-finish-22cm-product-images-orv6ayexydk-p610628104-7-202411061110.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 10,
+      "description": "Our steamer is made of premium stainless steel and has a glass cover, making it the ideal complement to any kitchen. This steamer for cooking is made to last and will continue to serve as dependable cooking equipment for years to come because this vegetable steamer is constructed of sturdy, high-quality stainless steel. Among other things, it can be used to steam vegetables, dumplings, and momos. You can pick between the steamer's two capacities based on your requirement. Additionally, the steamer has a glass lid that lets you see the food while it cooks without lifting the lid, also comes with a steam vent which could let steam escape. This cookware has two steaming layers so you can prepare a number of things simultaneously and save time and energy. The steamer is also simple to remove from the pot after it has finished cooking thanks to the robust grips on each tier. This steamer is dishwasher-safe and simple to clean. Additionally, it resists corrosion, so it keeps its streamlined, contemporary appearance."
+    },
+    {
+      "id": 1037,
+      "name": "Avias Exxelo Plus Idly Cooker | 3 Idli plate, 1 Mini Idli plate & 1 Dhokla plate | Stainless Steel Idli Maker (Silver, Exxelo Plus 12)",
+      "brand": "AVIAS",
+      "categoryId": 1,
+      "subcategoryId": 104,
+      "price": 2337,
+      "discount": 18,
+      "originalPrice": 2850,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvdivfa4n4/avias-exxelo-plus-idly-cooker-3-idli-plate-1-mini-idli-plate-1-dhokla-plate-stainless-steel-idli-maker-silver-exxelo-plus-12-product-images-orvdivfa4n4-p610623683-0-202411051556.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvdivfa4n4/avias-exxelo-plus-idly-cooker-3-idli-plate-1-mini-idli-plate-1-dhokla-plate-stainless-steel-idli-maker-silver-exxelo-plus-12-product-images-orvdivfa4n4-p610623683-1-202411051556.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvdivfa4n4/avias-exxelo-plus-idly-cooker-3-idli-plate-1-mini-idli-plate-1-dhokla-plate-stainless-steel-idli-maker-silver-exxelo-plus-12-product-images-orvdivfa4n4-p610623683-2-202411051556.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvdivfa4n4/avias-exxelo-plus-idly-cooker-3-idli-plate-1-mini-idli-plate-1-dhokla-plate-stainless-steel-idli-maker-silver-exxelo-plus-12-product-images-orvdivfa4n4-p610623683-3-202411051556.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvdivfa4n4/avias-exxelo-plus-idly-cooker-3-idli-plate-1-mini-idli-plate-1-dhokla-plate-stainless-steel-idli-maker-silver-exxelo-plus-12-product-images-orvdivfa4n4-p610623683-4-202411051556.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvdivfa4n4/avias-exxelo-plus-idly-cooker-3-idli-plate-1-mini-idli-plate-1-dhokla-plate-stainless-steel-idli-maker-silver-exxelo-plus-12-product-images-orvdivfa4n4-p610623683-5-202411051556.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvdivfa4n4/avias-exxelo-plus-idly-cooker-3-idli-plate-1-mini-idli-plate-1-dhokla-plate-stainless-steel-idli-maker-silver-exxelo-plus-12-product-images-orvdivfa4n4-p610623683-6-202411051556.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 10,
+      "description": "Avias Exxelo Plus Idli Cooker is made of high-quality food-grade stainless steel and comes with aesthetically designed rustproof idli plates to give you those soft fluffy idlis that you desire. It is 100% flameproof and has a sturdy design making it highly durable and safe for use."
+    },
+    {
+      "id": 1038,
+      "name": "Borosil Hydra Bolt 1000 ml Stainless Steel Water Bottle | Single Wall Bottle for Office, Gym, School",
+      "brand": "Borosil",
+      "categoryId": 1,
+      "subcategoryId": 105,
+      "price": 399,
+      "discount": 19,
+      "originalPrice": 495,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvgqappdkp/borosil-hydra-bolt-1000-ml-stainless-steel-water-bottle-single-wall-bottle-for-office-gym-school-product-images-orvgqappdkp-p611325305-0-202504181859.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvgqappdkp/borosil-hydra-bolt-1000-ml-stainless-steel-water-bottle-single-wall-bottle-for-office-gym-school-product-images-orvgqappdkp-p611325305-1-202504181859.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvgqappdkp/borosil-hydra-bolt-1000-ml-stainless-steel-water-bottle-single-wall-bottle-for-office-gym-school-product-images-orvgqappdkp-p611325305-2-202504181859.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvgqappdkp/borosil-hydra-bolt-1000-ml-stainless-steel-water-bottle-single-wall-bottle-for-office-gym-school-product-images-orvgqappdkp-p611325305-3-202504181859.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 10,
+      "description": "The bolt bottle, with its curvy silhouette is a bestselling classic. not only does it look good, but does good. it has replaced plastic bottles for many eco-conscious consumers, helping our planet while also ensuring that you stay hydrated in style."
+    },
+    {
+      "id": 1039,
+      "name": "Borosil Hydra Grip-n-Sip Stainless Steel 1000 ml Water Bottle | Single Wall, Leakproof, BPA Free| Bottle for Office, School, College & Gym | 1 Year Warranty, Maroon",
+      "brand": "Borosil",
+      "categoryId": 1,
+      "subcategoryId": 105,
+      "price": 379,
+      "discount": 20,
+      "originalPrice": 475,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvw5vk8ngv/borosil-hydra-grip-n-sip-stainless-steel-1000-ml-water-bottle-single-wall-leakproof-bpa-free-bottle-for-office-school-college-gym-1-year-warranty-maroon-product-images-orvw5vk8ngv-p608923424-0-202504181320.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvw5vk8ngv/borosil-hydra-grip-n-sip-stainless-steel-1000-ml-water-bottle-single-wall-leakproof-bpa-free-bottle-for-office-school-college-gym-1-year-warranty-maroon-product-images-orvw5vk8ngv-p608923424-2-202504181320.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvw5vk8ngv/borosil-hydra-grip-n-sip-stainless-steel-1000-ml-water-bottle-single-wall-leakproof-bpa-free-bottle-for-office-school-college-gym-1-year-warranty-maroon-product-images-orvw5vk8ngv-p608923424-3-202504181320.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvw5vk8ngv/borosil-hydra-grip-n-sip-stainless-steel-1000-ml-water-bottle-single-wall-leakproof-bpa-free-bottle-for-office-school-college-gym-1-year-warranty-maroon-product-images-orvw5vk8ngv-p608923424-4-202504181320.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 10,
+      "description": "Now make carrying water with you is an easy and convenient task with the borosil grip n sip stainless steel bottles. they are perfect to fit in the pocket of your bag, and the flip top lid makes it easy to use for children as well."
+    },
+    {
+      "id": 1040,
+      "name": "ATROCK Silver Steel Water Bottle 1000 ml (pack of 6)",
+      "brand": "ATROCK",
+      "categoryId": 1,
+      "subcategoryId": 105,
+      "price": 729,
+      "discount": 63,
+      "originalPrice": 1999,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvommxpfnk/atrock-silver-steel-water-bottle-1000-ml-pack-of-6-product-images-orvommxpfnk-p599515631-0-202303171833.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvommxpfnk/atrock-silver-steel-water-bottle-1000-ml-pack-of-6-product-images-orvommxpfnk-p599515631-1-202303171833.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 10,
+      "description": "Stainless steel water bottles are made of high quality food grade 18-8 stainless steel. Its designed to be lightweight, reusable, sustainable and environmentally friendly.Basically it is used to keep in the freezer-Refrigerator but apart from it you can use it anywhere like office, home, kitchen and in the travelling also. This bottle can be used by anyone in your family and you need not to worry about the changing temperatures when you are using the water bottle. This bottle specially designed for cold liquids and beverage. This product should not be used for carbonated drink."
+    },
+    {
+      "id": 1041,
+      "name": "Prestige PVC 8.0 Veggie Cutter with 3 Stainless Steel Blades (Jumbo Bowl) (Black)",
+      "brand": "Prestige",
+      "categoryId": 1,
+      "subcategoryId": 106,
+      "price": 225,
+      "discount": 67,
+      "originalPrice": 659,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rv13esyils/prestige-pvc-8-0-veggie-cutter-with-3-stainless-steel-blades-jumbo-bowl-black-product-images-orv13esyils-p602624157-0-202306241725.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv13esyils/prestige-pvc-8-0-veggie-cutter-with-3-stainless-steel-blades-jumbo-bowl-black-product-images-orv13esyils-p602624157-1-202306241725.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv13esyils/prestige-pvc-8-0-veggie-cutter-with-3-stainless-steel-blades-jumbo-bowl-black-product-images-orv13esyils-p602624157-2-202306241725.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv13esyils/prestige-pvc-8-0-veggie-cutter-with-3-stainless-steel-blades-jumbo-bowl-black-product-images-orv13esyils-p602624157-3-202306241725.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv13esyils/prestige-pvc-8-0-veggie-cutter-with-3-stainless-steel-blades-jumbo-bowl-black-product-images-orv13esyils-p602624157-4-202306241725.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv13esyils/prestige-pvc-8-0-veggie-cutter-with-3-stainless-steel-blades-jumbo-bowl-black-product-images-orv13esyils-p602624157-5-202306241725.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 60,
+      "description": "This hand food chopper takes the hard work out of chopping & blending vegetables, fruits, nuts and herbs. Features sharp stainless steel blades for fast and even chopping/mincing, comfort soft grip lid, anti-skid base, easy pull cord, and a large handle Great for small kitchens."
+    },
+    {
+      "id": 1042,
+      "name": "BELIZZI Food Turbo Chopper 600ml, Steel Large Manual Hand-Press Vegetable Chopper Mixer Cutter to Cut Onion, Salad, Tomato, Potato (Pack of 1) 600ml",
+      "brand": "BELIZZI",
+      "categoryId": 1,
+      "subcategoryId": 106,
+      "price": 169,
+      "discount": 83,
+      "originalPrice": 999,
+      "image": [
+        "https://www.jiomart.com/images/product/original/494241061/belizzi-push-chopper-600ml-green-product-images-o494241061-p604752723-0-202309232033.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494241061/belizzi-push-chopper-600ml-green-product-images-o494241061-p604752723-1-202309232033.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494241061/belizzi-push-chopper-600ml-green-product-images-o494241061-p604752723-2-202309232033.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494241061/belizzi-push-chopper-600ml-green-product-images-o494241061-p604752723-3-202309232033.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 1618,
+      "description": "Belizzi Turbo Push Chopper is made of unbreakable food-grade plastic and has an anti-slip base. Save most of your time and chop effortlessly and efficiently using the unique Push-down mechanism. It can be used for whipping eggs, yogurt, and cream easier, and the lid can be used to cover and use the chopper as a storage container. A great addition to every household. So what are you waiting for? Go ahead and buy this product online today!"
+    },
+    {
+      "id": 1043,
+      "name": "Belizzi 14 in 1 Multipurpose Chopper, Fruits & Vegetable Cutters, Grater Peeler Chipser, Unbreakable Food Grade Body, Easy Push to Clean Button Slicer Dicer, Chopper for Kitchen (Green, Plastic)",
+      "brand": "BELIZZI",
+      "categoryId": 1,
+      "subcategoryId": 106,
+      "price": 376,
+      "discount": 68,
+      "originalPrice": 1199,
+      "image": [
+        "https://www.jiomart.com/images/product/original/493850260/belizzi-14-in-1-multipurpose-chopper-fruits-vegetable-cutters-grater-peeler-chipser-unbreakable-food-grade-body-easy-push-to-clean-button-slicer-dicer-chopper-for-kitchen-green-plastic-product-images-o493850260-p608584590-0-202403262325.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493850260/belizzi-14-in-1-multipurpose-chopper-fruits-vegetable-cutters-grater-peeler-chipser-unbreakable-food-grade-body-easy-push-to-clean-button-slicer-dicer-chopper-for-kitchen-green-plastic-product-images-o493850260-p608584590-1-202403262325.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493850260/belizzi-14-in-1-multipurpose-chopper-fruits-vegetable-cutters-grater-peeler-chipser-unbreakable-food-grade-body-easy-push-to-clean-button-slicer-dicer-chopper-for-kitchen-green-plastic-product-images-o493850260-p608584590-2-202403262325.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493850260/belizzi-14-in-1-multipurpose-chopper-fruits-vegetable-cutters-grater-peeler-chipser-unbreakable-food-grade-body-easy-push-to-clean-button-slicer-dicer-chopper-for-kitchen-green-plastic-product-images-o493850260-p608584590-3-202403262325.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 76,
+      "description": "Elevate your kitchen experience with the Belizzi 14-in-1 Multipurpose Chopper. This versatile kitchen tool offers a comprehensive solution for chopping, slicing, dicing, grating, peeling, and more. Crafted with an unbreakable food-grade body in a vibrant green color, it adds functionality and style to your kitchen. The easy push-to-clean button ensures hassle-free cleaning, while the ergonomic design provides comfort and ease of use. Whether you're preparing fruits, vegetables, or other ingredients, this chopper is designed to streamline your cooking process. So what are you waiting for? Go ahead and buy this product online today!"
+    },
+    {
+      "id": 1044,
+      "name": "Belizzi Daisy Designer Dinner Set (36 pcs)",
+      "brand": "BELIZZI",
+      "categoryId": 1,
+      "subcategoryId": 107,
+      "price": 629,
+      "discount": 74,
+      "originalPrice": 2500,
+      "image": [
+        "https://www.jiomart.com/images/product/original/493831371/belizzi-daisy-designer-dinner-set-36-pcs-product-images-o493831371-p603844050-0-202308121412.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493831371/belizzi-daisy-designer-dinner-set-36-pcs-product-images-o493831371-p603844050-1-202308121412.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 184,
+      "description": "Belizzi Daisy Designer Dinner Set Makes It Too Beautiful enhance a dinner table in front of Various guests as well as for daily use. Made From High-Quality. It is for multipurpose use for in-home, offices, and restaurants. It includes the Heavy plates which are required everywhere. So what are you waiting for? Go ahead and buy this product online today!"
+    },
+    {
+      "id": 1045,
+      "name": "Belizzi Blue Plastic Dinner Set (42 pcs)",
+      "brand": "BELIZZI",
+      "categoryId": 1,
+      "subcategoryId": 107,
+      "price": 619,
+      "discount": 75,
+      "originalPrice": 2500,
+      "image": [
+        "https://www.jiomart.com/images/product/original/494241073/belizzi-blue-plastic-dinner-set-42-pcs-product-images-o494241073-p605144119-0-202309291751.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494241073/belizzi-blue-plastic-dinner-set-42-pcs-product-images-o494241073-p605144119-1-202309291751.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494241073/belizzi-blue-plastic-dinner-set-42-pcs-product-images-o494241073-p605144119-2-202309291751.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494241073/belizzi-blue-plastic-dinner-set-42-pcs-product-images-o494241073-p605144119-3-202309291751.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494241073/belizzi-blue-plastic-dinner-set-42-pcs-product-images-o494241073-p605144119-4-202309291751.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 561,
+      "description": "Belizzi Blue Plastic Dinner Set Makes It Too Beautiful enhances a dinner table in front of Various guests as well as for daily use. Made From High-Quality. It is for multipurpose use for in-home, offices, and restaurants. It includes the Heavy plates which are required everywhere. So what are you waiting for? Go ahead and buy this product online today!"
+    },
+    {
+      "id": 1046,
+      "name": "Larah By Borosil Lush 34 pcs Silk Series White Opalware Dinner Set",
+      "brand": "Larah By Borosil",
+      "categoryId": 1,
+      "subcategoryId": 107,
+      "price": 1330,
+      "discount": 68,
+      "originalPrice": 4200,
+      "image": [
+        "https://www.jiomart.com/images/product/original/494260123/larah-by-borosil-lush-silk-series-white-opalware-dinner-set-34-pcs-product-images-o494260123-p605541874-0-202310110646.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494260123/larah-by-borosil-lush-silk-series-white-opalware-dinner-set-34-pcs-product-images-o494260123-p605541874-1-202310110646.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494260123/larah-by-borosil-lush-silk-series-white-opalware-dinner-set-34-pcs-product-images-o494260123-p605541874-2-202310110646.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494260123/larah-by-borosil-lush-silk-series-white-opalware-dinner-set-34-pcs-product-images-o494260123-p605541874-3-202310110646.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494260123/larah-by-borosil-lush-silk-series-white-opalware-dinner-set-34-pcs-product-images-o494260123-p605541874-4-202310110646.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494260123/larah-by-borosil-lush-silk-series-white-opalware-dinner-set-34-pcs-product-images-o494260123-p605541874-5-202310110646.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494260123/larah-by-borosil-lush-silk-series-white-opalware-dinner-set-34-pcs-product-images-o494260123-p605541874-6-202310110646.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 95,
+      "description": "The Larah By Borosil Lush Silk Series White Opalware Dinner Set is a masterpiece of dining elegance. Its opulent opalware construction, unique Silk Series design, comprehensive set, and functional features make it a standout choice for those who appreciate the finer things in life. Elevate your dining experience with this exceptional dinnerware set that combines beauty and practicality in one. So what are you waiting for? Go ahead and buy this product online today!"
+    },
+    {
+      "id": 1047,
+      "name": "Zooy 8pcs unbreakable plastic diamond design water and juice glass ( set of 8 )",
+      "brand": "ZooY",
+      "categoryId": 1,
+      "subcategoryId": 108,
+      "price": 199,
+      "discount": 66,
+      "originalPrice": 599,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvvhgdpd2n/zooy-8pcs-unbreakable-plastic-diamond-design-water-and-juice-glass-set-of-8-product-images-orvvhgdpd2n-p604047030-0-202308231514.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 59,
+      "description": "Use for : available in different sizes for different drinks The plastic drinking glasses are shatter-proof and break-resistant. Also, with its sturdy construction, they are safe and durable for your everyday use. Suitable for use indoors and outdoors. Great for gatherings, parties, barbecues. A must-have for home, office, restaurants, bars, pools. Modern and sleek design. Crystal-clear and shiny. A perfect item for entertaining and gifting. These plastic glass is unbreakable and sturdy. Diamond Design Unbreakable Stylish Transparent Water Glass/Juice Glass/Beer Glass/Wine Glass Plastic Glass Set(300ML,Pack of 08) Our principle is to make profit from the business after satisfying the consumer. Prevents cracking or breaking"
+    },
+    {
+      "id": 1048,
+      "name": "Soham Premium Water Glasses (Pack of 6)",
+      "brand": "Soham",
+      "categoryId": 1,
+      "subcategoryId": 108,
+      "price": 299,
+      "discount": 66,
+      "originalPrice": 899,
+      "image": [
+        "https://www.jiomart.com/images/product/original/493831392/soham-premium-water-glasses-pack-of-6-product-images-o493831392-p603722479-0-202308101159.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493831392/soham-premium-water-glasses-pack-of-6-product-images-o493831392-p603722479-1-202308101159.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493831392/soham-premium-water-glasses-pack-of-6-product-images-o493831392-p603722479-2-202308101159.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493831392/soham-premium-water-glasses-pack-of-6-product-images-o493831392-p603722479-3-202308101159.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493831392/soham-premium-water-glasses-pack-of-6-product-images-o493831392-p603722479-4-202308101159.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 10,
+      "description": "Soham Premium Water Glasses are a versatile set of Glass. These glasses can be used anywhere from a restaurant to your home. The beautiful diamond pattern on the glass surface gives it a premium look. The glass can be used to enjoy various juices, milkshakes, and whatever one desires. So what are you waiting for? Go ahead and buy this product online today!"
+    },
+    {
+      "id": 1049,
+      "name": "Soham Premium Whisky Glasses 270 Ml (Set of 6)",
+      "brand": "Soham",
+      "categoryId": 1,
+      "subcategoryId": 108,
+      "price": 318,
+      "discount": 68,
+      "originalPrice": 999,
+      "image": [
+        "https://www.jiomart.com/images/product/original/493831391/soham-premium-whisky-glasses-270-ml-set-of-6-product-images-o493831391-p603722486-0-202308101159.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493831391/soham-premium-whisky-glasses-270-ml-set-of-6-product-images-o493831391-p603722486-1-202308101159.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493831391/soham-premium-whisky-glasses-270-ml-set-of-6-product-images-o493831391-p603722486-2-202308101159.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493831391/soham-premium-whisky-glasses-270-ml-set-of-6-product-images-o493831391-p603722486-3-202308101200.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493831391/soham-premium-whisky-glasses-270-ml-set-of-6-product-images-o493831391-p603722486-4-202308101200.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 24,
+      "description": "Soham Premium Whiskey Glasses are a versatile set of glasses that can be used to enjoy various drinks. The twisted design of the glass makes holding it easy and provides a good grip when the outer surface is wet and slippery. So what are you waiting for? Go ahead and buy this product online today!"
+    },
+    {
+      "id": 1050,
+      "name": "Reliance Jewels 24 Kt 999 RJ Gold Coin 1g",
+      "brand": "Reliance Jewels",
+      "categoryId": 8,
+      "subcategoryId": 101,
+      "price": 10944,
+      "discount": 0,
+      "originalPrice": 10944,
+      "image": [
+        "https://www.jiomart.com/images/product/original/30000973/reliance-jewels-999-flower-round-gold-coin-1-g-product-images-o30000973-p603599620-0-202312061332.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/30000973/reliance-jewels-999-flower-round-gold-coin-1-g-product-images-o30000973-p603599620-1-202308040847.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/30000973/reliance-jewels-999-flower-round-gold-coin-1-g-product-images-o30000973-p603599620-2-202308040847.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/30000973/reliance-jewels-999-flower-round-gold-coin-1-g-product-images-o30000973-p603599620-3-202308040847.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/30000973/reliance-jewels-999-flower-round-gold-coin-1-g-product-images-o30000973-p603599620-4-202402131510.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/30000973/reliance-jewels-999-flower-round-gold-coin-1-g-product-images-o30000973-p603599620-5-202402201414.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/30000973/reliance-jewels-999-flower-round-gold-coin-1-g-legal-images-o30000973-p603599620-6-202402201414.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/30000973/reliance-jewels-999-flower-round-gold-coin-1-g-legal-images-o30000973-p603599620-7-202402201414.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 108,
+      "description": "Discover elegance and sophistication with this finely crafted gold coin, featuring the distinctive RJ design. Ideal for collectors and those who appreciate a touch of refined luxury"
+    },
+    {
+      "id": 1051,
+      "name": "Reliance Jewels 999 Laxmi Round Gold Coin 2g",
+      "brand": "Reliance Jewels",
+      "categoryId": 8,
+      "subcategoryId": 101,
+      "price": 21888,
+      "discount": 0,
+      "originalPrice": 21888,
+      "image": [
+        "https://www.jiomart.com/images/product/original/30000691/reliance-jewels-999-laxmi-round-gold-coin-2-g-product-images-o30000691-p603073733-0-202310031754.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/30000691/reliance-jewels-999-laxmi-round-gold-coin-2-g-product-images-o30000691-p603073733-1-202310031754.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/30000691/reliance-jewels-999-laxmi-round-gold-coin-2-g-product-images-o30000691-p603073733-2-202310031754.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/30000691/reliance-jewels-999-laxmi-round-gold-coin-2-g-product-images-o30000691-p603073733-3-202310031755.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/30000691/reliance-jewels-999-laxmi-round-gold-coin-2-g-product-images-o30000691-p603073733-4-202402231323.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/30000691/reliance-jewels-999-laxmi-round-gold-coin-2-g-product-images-o30000691-p603073733-5-202402231323.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/30000691/reliance-jewels-999-laxmi-round-gold-coin-2-g-legal-images-o30000691-p603073733-6-202402231323.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 30,
+      "description": "Radiate prosperity with this beautifully designed gold coin featuring the revered goddess Laxmi. A symbol of wealth and good fortune, it makes a cherished addition to any collection or a thoughtful gift"
+    },
+    {
+      "id": 1052,
+      "name": "Bangalore Refinery 999 Silver Bar 100g",
+      "brand": "BANGALORE REFINERY",
+      "categoryId": 8,
+      "subcategoryId": 101,
+      "price": 11832,
+      "discount": 5,
+      "originalPrice": 12500,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvojm65xhh/bangalore-refinery-metal-silver-bar-product-images-rvojm65xhh-0-202210171050.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rvojm65xhh/bangalore-refinery-metal-silver-bar-product-images-rvojm65xhh-1-202210171050.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rvojm65xhh/bangalore-refinery-metal-silver-bar-product-images-rvojm65xhh-2-202210171050.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rvojm65xhh/bangalore-refinery-metal-silver-bar-product-images-rvojm65xhh-3-202210171050.jpg?im=Resize=(600,750)"
+      ],
+      "reviews": 173,
+      "description": "This auspicious coin from Bangalore Refinery has a timeless appeal. Made of silver, it weighs 100Gms. It comes with the divine motifs engraved on one side of the coin. Be it for gifting purpose or for personal collection, this coin will surely be a valuable possession."
+    },
+    {
+      "id": 1053,
+      "name": "Pissara by Sukkhi Lavish 925 Sterling Silver Cubic Zirconia Pendant With Chain For Women And Girls|with Authenticity Certificate, 925 Stamp & 6 Months Warranty",
+      "brand": "Pissara",
+      "categoryId": 8,
+      "subcategoryId": 102,
+      "price": 1342,
+      "discount": 67,
+      "originalPrice": 4118,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvjjwvqlvj/pissara-by-sukkhi-lavish-925-sterling-silver-cubic-zirconia-pendant-with-chain-for-women-and-girls-with-authenticity-certificate-925-stamp-6-months-warranty-product-images-rvjjwvqlvj-0-202302271722.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rvjjwvqlvj/pissara-by-sukkhi-lavish-925-sterling-silver-cubic-zirconia-pendant-with-chain-for-women-and-girls-with-authenticity-certificate-925-stamp-6-months-warranty-product-images-rvjjwvqlvj-1-202302271722.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rvjjwvqlvj/pissara-by-sukkhi-lavish-925-sterling-silver-cubic-zirconia-pendant-with-chain-for-women-and-girls-with-authenticity-certificate-925-stamp-6-months-warranty-product-images-rvjjwvqlvj-2-202302271722.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rvjjwvqlvj/pissara-by-sukkhi-lavish-925-sterling-silver-cubic-zirconia-pendant-with-chain-for-women-and-girls-with-authenticity-certificate-925-stamp-6-months-warranty-product-images-rvjjwvqlvj-4-202302271723.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rvjjwvqlvj/pissara-by-sukkhi-lavish-925-sterling-silver-cubic-zirconia-pendant-with-chain-for-women-and-girls-with-authenticity-certificate-925-stamp-6-months-warranty-product-images-rvjjwvqlvj-5-202302271723.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rvjjwvqlvj/pissara-by-sukkhi-lavish-925-sterling-silver-cubic-zirconia-pendant-with-chain-for-women-and-girls-with-authenticity-certificate-925-stamp-6-months-warranty-product-images-rvjjwvqlvj-6-202302271723.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rvjjwvqlvj/pissara-by-sukkhi-lavish-925-sterling-silver-cubic-zirconia-pendant-with-chain-for-women-and-girls-with-authenticity-certificate-925-stamp-6-months-warranty-product-images-rvjjwvqlvj-7-202302271723.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rvjjwvqlvj/pissara-by-sukkhi-lavish-925-sterling-silver-cubic-zirconia-pendant-with-chain-for-women-and-girls-with-authenticity-certificate-925-stamp-6-months-warranty-product-images-rvjjwvqlvj-8-202302271723.jpg?im=Resize=(600,750)"
+      ],
+      "reviews": 3,
+      "description": "Pissara by Sukkhi Lavish 925 Sterling Silver Cubic Zirconia Pendant With Chain For Women And Girls|with Authenticity Certificate, 925 Stamp & 6 Months Warranty is made of Sterling Silver. Women love jewellery; specially Cubic Zirconia jewellery adore a women. They wear it on different occasion. They have special importance on ring ceremony, wedding and festive time. They can also wear it on regular basis . Make your moment memorable with this range. This 925 Stamped Sterling Silver jewellery features a unique one of a kind Fashion Jewellery for women and Girls."
+    },
+    {
+      "id": 1054,
+      "name": "Eloish Pure 999 Silver Lakshmi Ganesha Idol with Gift Box. (Silver Ornaments: 8 Grams)",
+      "brand": "ELOISH",
+      "categoryId": 8,
+      "subcategoryId": 103,
+      "price": 4999,
+      "discount": 49,
+      "originalPrice": 9900,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvrv1gez1k/eloish-pure-999-silver-lakshmi-ganesha-idol-with-gift-box-silver-ornaments-8-grams-product-images-rvrv1gez1k-0-202307260049.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rvrv1gez1k/eloish-pure-999-silver-lakshmi-ganesha-idol-with-gift-box-silver-ornaments-8-grams-product-images-rvrv1gez1k-1-202307260049.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rvrv1gez1k/eloish-pure-999-silver-lakshmi-ganesha-idol-with-gift-box-silver-ornaments-8-grams-product-images-rvrv1gez1k-2-202307260049.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rvrv1gez1k/eloish-pure-999-silver-lakshmi-ganesha-idol-with-gift-box-silver-ornaments-8-grams-product-images-rvrv1gez1k-3-202307260049.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rvrv1gez1k/eloish-pure-999-silver-lakshmi-ganesha-idol-with-gift-box-silver-ornaments-8-grams-product-images-rvrv1gez1k-4-202307260049.jpg?im=Resize=(600,750)"
+      ],
+      "reviews": 49,
+      "description": "Pure 999 Silver Lakshmi Ganesha is one of the finest collection of ELOISH. This precious article is made up of pure 999 silver and comes with the box worth Rs 500 /- absolutely free. This precious article can be used for gifting someone special to showering Laxmi Ganesha's blessings."
+    },
+    {
+      "id": 1055,
+      "name": "ELOISH Pure Silver Shri Yantra. Pure 999 Silver Shiri Yantr. Pure Silver Shree Yantra.",
+      "brand": "ELOISH",
+      "categoryId": 8,
+      "subcategoryId": 103,
+      "price": 1999,
+      "discount": 50,
+      "originalPrice": 4000,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rv9zma95zl/eloish-pure-silver-shri-yantra-pure-999-silver-shiri-yantr-pure-silver-shree-yantra-product-images-rv9zma95zl-0-202307270523.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rv9zma95zl/eloish-pure-silver-shri-yantra-pure-999-silver-shiri-yantr-pure-silver-shree-yantra-product-images-rv9zma95zl-1-202307270523.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rv9zma95zl/eloish-pure-silver-shri-yantra-pure-999-silver-shiri-yantr-pure-silver-shree-yantra-product-images-rv9zma95zl-2-202307270523.jpg?im=Resize=(600,750)"
+      ],
+      "reviews": 3,
+      "description": "ELOISH Shri Yantra is made of Pure 99.9% Silver. Bring all the luck, prosperity to you and your business. Pocket Size Yantra, 4.5 CM Height and 4 CM Length. It will surely brings all the wealth you deserve. Keep The Shree Yantra in Polybag when not in use. Silver reacts to open Air. 1. Image has been enlarged for better viewing. 2. Image may slightly Vary with the Original Product."
+    },
+    {
+      "id": 1056,
+      "name": "Feel Touch Mart Neelam Nelami Original 7.75 Carat Blue Sapphire Kashmir Mines Cushion Shape Gemstone Neelam Rashi Ratan Cushion Shape Stone Genuine Blue Sapphire Loose Gemstone For Men & Women With IGL Lab Certified",
+      "brand": "FEEL TOUCH MART",
+      "categoryId": 8,
+      "subcategoryId": 104,
+      "price": 18999,
+      "discount": 50,
+      "originalPrice": 38500,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rv10fbdklv/feel-touch-mart-neelam-nelami-original-7-75-carat-blue-sapphire-kashmir-mines-cushion-shape-gemstone-neelam-rashi-ratan-cushion-shape-stone-genuine-blue-sapphire-loose-gemstone-for-men-women-with-igl-lab-certified-product-images-rv10fbdklv-0-202409281722.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rv10fbdklv/feel-touch-mart-neelam-nelami-original-7-75-carat-blue-sapphire-kashmir-mines-cushion-shape-gemstone-neelam-rashi-ratan-cushion-shape-stone-genuine-blue-sapphire-loose-gemstone-for-men-women-with-igl-lab-certified-product-images-rv10fbdklv-1-202409281722.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rv10fbdklv/feel-touch-mart-neelam-nelami-original-7-75-carat-blue-sapphire-kashmir-mines-cushion-shape-gemstone-neelam-rashi-ratan-cushion-shape-stone-genuine-blue-sapphire-loose-gemstone-for-men-women-with-igl-lab-certified-product-images-rv10fbdklv-2-202409281722.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rv10fbdklv/feel-touch-mart-neelam-nelami-original-7-75-carat-blue-sapphire-kashmir-mines-cushion-shape-gemstone-neelam-rashi-ratan-cushion-shape-stone-genuine-blue-sapphire-loose-gemstone-for-men-women-with-igl-lab-certified-product-images-rv10fbdklv-3-202409281722.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rv10fbdklv/feel-touch-mart-neelam-nelami-original-7-75-carat-blue-sapphire-kashmir-mines-cushion-shape-gemstone-neelam-rashi-ratan-cushion-shape-stone-genuine-blue-sapphire-loose-gemstone-for-men-women-with-igl-lab-certified-product-images-rv10fbdklv-4-202409281722.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rv10fbdklv/feel-touch-mart-neelam-nelami-original-7-75-carat-blue-sapphire-kashmir-mines-cushion-shape-gemstone-neelam-rashi-ratan-cushion-shape-stone-genuine-blue-sapphire-loose-gemstone-for-men-women-with-igl-lab-certified-product-images-rv10fbdklv-5-202409281722.jpg?im=Resize=(600,750)"
+      ],
+      "reviews": 3,
+      "description": "The blue sapphire or neelam is one of the most desired astrological gemstones around the world. it is well known for its strikingly beautiful brilliant blue colors and its fast-acting powers.7.75 carat blue sapphire stone original certified beautiful cushion shape unheated & untreated high rate best earth mine kashrmri rashi ratan blue sapphire stone also know as indraneelam neelmani nila neela blue sapphire stone use as ring & pendant jewelry making & astrologer purpose"
+    },
+    {
+      "id": 1057,
+      "name": "Feel Touch Mart 7.85 Carat AlexandriteStone Genuine & Original Stone for Men & Women with Lab Certified",
+      "brand": "FEEL TOUCH MART",
+      "categoryId": 8,
+      "subcategoryId": 104,
+      "price": 5799,
+      "discount": 53,
+      "originalPrice": 12500,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvokxsrjxe/feel-touch-mart-7-85-carat-alexandritestone-genuine-original-stone-for-men-women-with-lab-certified-product-images-rvokxsrjxe-0-202409281344.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rvokxsrjxe/feel-touch-mart-7-85-carat-alexandritestone-genuine-original-stone-for-men-women-with-lab-certified-product-images-rvokxsrjxe-1-202409281344.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rvokxsrjxe/feel-touch-mart-7-85-carat-alexandritestone-genuine-original-stone-for-men-women-with-lab-certified-product-images-rvokxsrjxe-2-202409281344.jpg?im=Resize=(600,750)",
+        "https://www.jiomart.com/images/product/original/rvokxsrjxe/feel-touch-mart-7-85-carat-alexandritestone-genuine-original-stone-for-men-women-with-lab-certified-product-images-rvokxsrjxe-3-202409281344.jpg?im=Resize=(600,750)"
+      ],
+      "reviews": 3,
+      "description": "Alexander/alexandrite stone original certified alexandrite the name itself of this extraordinary gemstone is an indication of royalty. described as emerald by day, ruby by night by gemstone experts, this chameleon-like stone has a rare and unique color-changing property."
+    },
+    {
+      "id": 1058,
+      "name": "Nandadip Pooja Oil 900ml enriched with Til, Sandalwood, Camphor | Lamp Oil | Puja Oil | Deepam Oil | Used in Pooja, Festivals havan",
+      "brand": "NANDADIP",
+      "categoryId": 18,
+      "subcategoryId": 101,
+      "price": 139,
+      "discount": 86,
+      "originalPrice": 999,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rv3hah9dfw/nandadip-pooja-oil-900ml-enriched-with-til-sandalwood-camphor-lamp-oil-puja-oil-deepam-oil-used-in-pooja-festivals-havan-product-images-orv3hah9dfw-p611444708-0-202505201634.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv3hah9dfw/nandadip-pooja-oil-900ml-enriched-with-til-sandalwood-camphor-lamp-oil-puja-oil-deepam-oil-used-in-pooja-festivals-havan-product-images-orv3hah9dfw-p611444708-1-202505201634.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv3hah9dfw/nandadip-pooja-oil-900ml-enriched-with-til-sandalwood-camphor-lamp-oil-puja-oil-deepam-oil-used-in-pooja-festivals-havan-product-images-orv3hah9dfw-p611444708-2-202505201634.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv3hah9dfw/nandadip-pooja-oil-900ml-enriched-with-til-sandalwood-camphor-lamp-oil-puja-oil-deepam-oil-used-in-pooja-festivals-havan-product-images-orv3hah9dfw-p611444708-3-202505201634.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 48,
+      "description": "High-Quality Pooja Oil - Specially formulated for religious rituals and diya lighting."
+    },
+    {
+      "id": 1059,
+      "name": "Swarajya India Indra Jyoti Pooja Oil 900ml Enriched, Sandalwood Fragnance | Lamp Oil | Puja Oil | Deepam Oil | Used in Pooja, Festivals havan I",
+      "brand": "SWARAJYA INDIA",
+      "categoryId": 18,
+      "subcategoryId": 101,
+      "price": 129,
+      "discount": 63,
+      "originalPrice": 350,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rv3ipgeuz2/swarajya-india-indra-pooja-oil-in-sandalwood-fragrance-900-ml-product-images-orv3ipgeuz2-p599338475-0-202505081115.png?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv3ipgeuz2/swarajya-india-indra-jyoti-pooja-oil-900ml-enriched-sandalwood-fragnance-lamp-oil-puja-oil-deepam-oil-used-in-pooja-festivals-havan-i-product-images-orv3ipgeuz2-p599338475-1-202506132314.png?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv3ipgeuz2/swarajya-india-indra-jyoti-pooja-oil-900ml-enriched-sandalwood-fragnance-lamp-oil-puja-oil-deepam-oil-used-in-pooja-festivals-havan-i-product-images-orv3ipgeuz2-p599338475-2-202506132314.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv3ipgeuz2/swarajya-india-indra-jyoti-pooja-oil-900ml-enriched-sandalwood-fragnance-lamp-oil-puja-oil-deepam-oil-used-in-pooja-festivals-havan-i-product-images-orv3ipgeuz2-p599338475-3-202506132314.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 9,
+      "description": "Enriched with Sacred Ingredients: Contains Til oil for purity, sandalwood for fragrance  for spiritual elevation. Clean & Long-Lasting Flame: Produces a steady, bright flame – perfect for deepams and diyas. Multi-Use Pooja Oil: Suitable for daily pujas, havans, temples, festivals like Diwali, Navratri, and more. Traditional Fragrance: Fills your space with a serene, devotional ambiance. Convenient Pack: 900ml bottle designed for easy storage and pouring."
+    },
+    {
+      "id": 1060,
+      "name": "Zed Black Agarbatti Grand 3in1 Incense Stick for Pooja, Havan, Long Lasting Fragrance Natural Fragrance 100gm, Set of 2",
+      "brand": "ZED BLACK",
+      "categoryId": 18,
+      "subcategoryId": 102,
+      "price": 89,
+      "discount": 25,
+      "originalPrice": 120,
+      "image": [
+        "https://www.jiomart.com/images/product/original/494491657/zed-black-agarbatti-grand-3in1-incense-stick-for-pooja-havan-long-lasting-fragrance-natural-fragrance-100gm-set-of-2-product-images-o494491657-p610016313-0-202409231853.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494491657/zed-black-agarbatti-grand-3in1-incense-stick-for-pooja-havan-long-lasting-fragrance-natural-fragrance-100gm-set-of-2-product-images-o494491657-p610016313-1-202409231853.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494491657/zed-black-agarbatti-grand-3in1-incense-stick-for-pooja-havan-long-lasting-fragrance-natural-fragrance-100gm-set-of-2-product-images-o494491657-p610016313-2-202409231853.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494491657/zed-black-agarbatti-grand-3in1-incense-stick-for-pooja-havan-long-lasting-fragrance-natural-fragrance-100gm-set-of-2-product-images-o494491657-p610016313-3-202409231853.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 370,
+      "description": "Zed Black Agarbatti is a premium incense stick brand renowned for its captivating fragrances and superior quality. Each stick is crafted using a blend of natural ingredients, essential oils, and aromatic resins, offering a long-lasting and enchanting aroma that creates a serene and peaceful ambiance. Ideal for use during prayers, meditation, or simply to freshen up your living space, Zed Black Agarbatti ensures a delightful sensory experience. Its smooth and even burning process guarantees a consistent release of fragrance, making it a perfect addition to your daily rituals and spiritual practices. So what are you waiting for? Go ahead and buy this product online today!"
+    },
+    {
+      "id": 1061,
+      "name": "Zed Black Agarbatti Grand 3in1 Incense Stick for Pooja, Havan, Long Lasting Fragrance Natural Fragrance 100gm, Set of 3",
+      "brand": "ZED BLACK",
+      "categoryId": 18,
+      "subcategoryId": 102,
+      "price": 119,
+      "discount": 33,
+      "originalPrice": 180,
+      "image": [
+        "https://www.jiomart.com/images/product/original/494337303/zed-black-agarbatti-grand-3in1-incense-stick-for-pooja-havan-long-lasting-fragrance-natural-fragrance-100gm-set-of-3-product-images-o494337303-p609570484-0-202407241136.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494337303/zed-black-agarbatti-grand-3in1-incense-stick-for-pooja-havan-long-lasting-fragrance-natural-fragrance-100gm-set-of-3-product-images-o494337303-p609570484-1-202407241136.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494337303/zed-black-agarbatti-grand-3in1-incense-stick-for-pooja-havan-long-lasting-fragrance-natural-fragrance-100gm-set-of-3-product-images-o494337303-p609570484-2-202407241136.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494337303/zed-black-agarbatti-grand-3in1-incense-stick-for-pooja-havan-long-lasting-fragrance-natural-fragrance-100gm-set-of-3-product-images-o494337303-p609570484-3-202407241136.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 89,
+      "description": "Zed Black Agarbatti is a premium incense stick brand renowned for its captivating fragrances and superior quality. Each stick is crafted using a blend of natural ingredients, essential oils, and aromatic resins, offering a long-lasting and enchanting aroma that creates a serene and peaceful ambiance. Ideal for use during prayers, meditation, or simply to freshen up your living space, Zed Black Agarbatti ensures a delightful sensory experience. Its smooth and even burning process guarantees a consistent release of fragrance, making it a perfect addition to your daily rituals and spiritual practices. So what are you waiting for? Go ahead and buy this product online today!"
+    },
+    {
+      "id": 1062,
+      "name": "Ambika Pure Karpooram (70 Small Round Camphor/Kapur Tablets , Pack of 2)",
+      "brand": "Ambika",
+      "categoryId": 18,
+      "subcategoryId": 103,
+      "price": 169,
+      "discount": 1,
+      "originalPrice": 172,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvvlrplutg/ambika-pure-karpooram-70-small-round-camphor-kapur-tablets-pack-of-2-product-images-orvvlrplutg-p596069292-0-202212051239.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvvlrplutg/ambika-pure-karpooram-70-small-round-camphor-kapur-tablets-pack-of-2-product-images-orvvlrplutg-p596069292-1-202212051239.png?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvvlrplutg/ambika-pure-karpooram-70-small-round-camphor-kapur-tablets-pack-of-2-product-images-orvvlrplutg-p596069292-2-202212051240.png?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvvlrplutg/ambika-pure-karpooram-70-small-round-camphor-kapur-tablets-pack-of-2-product-images-orvvlrplutg-p596069292-3-202212051241.png?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvvlrplutg/ambika-pure-karpooram-70-small-round-camphor-kapur-tablets-pack-of-2-product-images-orvvlrplutg-p596069292-4-202212051241.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvvlrplutg/ambika-pure-karpooram-70-small-round-camphor-kapur-tablets-pack-of-2-product-images-orvvlrplutg-p596069292-5-202212051241.png?im=Resize=(420,420)"
+      ],
+      "reviews": 51,
+      "description": "Ambika Pure Karpooram Camphor Tablets: -Pure Camphor, No Harmful Chemicals, Leaves no residue/ash. Our Camphor Tablets can be used for Puja/Aarti, in a diffuser, as a natural mosquito/insect repellant, as an air purifier/freshener and a safe preservator. Use Ambika Pure Karpooram/Camphor Tablets to offer sacred prayers, spread positive vibes and to relax mind and body."
+    },
+    {
+      "id": 1064,
+      "name": "Zed Black 3 in 1 Sambrani Cups Sambrani Dhoop Cup Box - Long Lasting Pleasing Aroma Dhoop Cone for Puja for Everyday Use - Pack of 2",
+      "brand": "ZED BLACK",
+      "categoryId": 18,
+      "subcategoryId": 104,
+      "price": 129,
+      "discount": 19,
+      "originalPrice": 160,
+      "image": [
+        "https://www.jiomart.com/images/product/original/494337323/zed-black-3-in-1-sambrani-cups-sambrani-dhoop-cup-box-long-lasting-pleasing-aroma-dhoop-cone-for-puja-for-everyday-use-pack-of-2-product-images-o494337323-p609570353-0-202410182050.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494337323/zed-black-3-in-1-sambrani-cups-sambrani-dhoop-cup-box-long-lasting-pleasing-aroma-dhoop-cone-for-puja-for-everyday-use-pack-of-2-product-images-o494337323-p609570353-1-202410182050.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494337323/zed-black-3-in-1-sambrani-cups-sambrani-dhoop-cup-box-long-lasting-pleasing-aroma-dhoop-cone-for-puja-for-everyday-use-pack-of-2-product-images-o494337323-p609570353-2-202410182050.png?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494337323/zed-black-3-in-1-sambrani-cups-sambrani-dhoop-cup-box-long-lasting-pleasing-aroma-dhoop-cone-for-puja-for-everyday-use-pack-of-2-product-images-o494337323-p609570353-3-202410182050.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494337323/zed-black-3-in-1-sambrani-cups-sambrani-dhoop-cup-box-long-lasting-pleasing-aroma-dhoop-cone-for-puja-for-everyday-use-pack-of-2-product-images-o494337323-p609570353-4-202410182050.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494337323/zed-black-3-in-1-sambrani-cups-sambrani-dhoop-cup-box-long-lasting-pleasing-aroma-dhoop-cone-for-puja-for-everyday-use-pack-of-2-product-images-o494337323-p609570353-5-202410182050.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 106,
+      "description": "Zed Black Dry Dhoop is a premium quality incense product designed to elevate your spiritual and aromatic experiences. Made from a blend of natural ingredients and traditional herbs, this dry dhoop offers a long-lasting and captivating fragrance that purifies the air and creates a serene atmosphere. Perfect for use during prayers, meditation, or relaxation, Zed Black Dry Dhoop is crafted to provide a soothing and uplifting ambiance. Its compact and easy-to-use form makes it a convenient addition to your daily rituals, ensuring a consistent and delightful aromatic experience. So what are you waiting for? Go ahead and buy this product online today!"
+    },
+    {
+      "id": 1065,
+      "name": "GG Copper Brass Akhand Diya Large",
+      "brand": "Pissara",
+      "categoryId": 18,
+      "subcategoryId": 105,
+      "price": 239,
+      "discount": 76,
+      "originalPrice": 999,
+      "image": [
+        "https://www.jiomart.com/images/product/original/494241001/gg-copper-brass-akhand-diya-product-images-o494241001-p604741634-0-202309221625.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494241001/gg-copper-brass-akhand-diya-product-images-o494241001-p604741634-1-202309221625.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494241001/gg-copper-brass-akhand-diya-product-images-o494241001-p604741634-2-202309221625.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494241001/gg-copper-brass-akhand-diya-product-images-o494241001-p604741634-3-202309221625.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 319,
+      "description": "Gg Copper Brass Akhand Diya is a traditional Indian oil lamp that adds a touch of elegance, spirituality, and cultural significance to various occasions and settings. Diyas are an integral part of Indian culture and are commonly used during religious ceremonies, festivals, and auspicious events. So what are you waiting for? Buy this product online today!"
+    },
+    {
+      "id": 1066,
+      "name": "Protoner Pair of 5kg Each PVC Dumbbells Set Hex",
+      "brand": "Protoner",
+      "categoryId": 16,
+      "subcategoryId": 101,
+      "price": 568,
+      "discount": 62,
+      "originalPrice": 1499,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rvduqg6inx/protoner-pair-of-5kg-each-pvc-dumbbells-set-hex-product-images-orvduqg6inx-p603552039-0-202308031040.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvduqg6inx/protoner-pair-of-5kg-each-pvc-dumbbells-set-hex-product-images-orvduqg6inx-p603552039-1-202503172258.png?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvduqg6inx/protoner-pair-of-5kg-each-pvc-dumbbells-set-hex-product-images-orvduqg6inx-p603552039-2-202503172258.png?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvduqg6inx/protoner-pair-of-5kg-each-pvc-dumbbells-set-hex-product-images-orvduqg6inx-p603552039-3-202503172258.png?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rvduqg6inx/protoner-pair-of-5kg-each-pvc-dumbbells-set-hex-product-images-orvduqg6inx-p603552039-4-202503172258.png?im=Resize=(420,420)"
+      ],
+      "reviews": 112,
+      "description": "5kg Each 2 PVC dumbbells, A combination of gym equipment for the perfect workout, Highly durable and long lasting, A perfect muscle builder, In-Box Contents: 5kg Each 2 Dumbbells"
+    },
+    {
+      "id": 1067,
+      "name": "Protoner PVC 3 in 1 convertible DM 40 Kg Dumbbells Set and Fitness Kit",
+      "brand": "Protoner",
+      "categoryId": 16,
+      "subcategoryId": 101,
+      "price": 1448,
+      "discount": 27,
+      "originalPrice": 1999,
+      "image": [
+        "https://www.jiomart.com/images/product/original/rv3mjif1n5/protoner-pvc-3-in-1-convertible-dm-40-kg-dumbbells-set-and-fitness-kit-product-images-orv3mjif1n5-p603254752-0-202401031927.png?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv3mjif1n5/protoner-pvc-3-in-1-convertible-dm-40-kg-dumbbells-set-and-fitness-kit-product-images-orv3mjif1n5-p603254752-1-202401031927.png?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv3mjif1n5/protoner-pvc-3-in-1-convertible-dm-40-kg-dumbbells-set-and-fitness-kit-product-images-orv3mjif1n5-p603254752-2-202401031927.png?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/rv3mjif1n5/protoner-pvc-3-in-1-convertible-dm-40-kg-dumbbells-set-and-fitness-kit-product-images-orv3mjif1n5-p603254752-3-202401031927.png?im=Resize=(420,420)"
+      ],
+      "reviews": 30,
+      "description": "Protoner PVC 3 in 1 convertible DM 40 Kg Dumbbells Set and Fitness Kit for Men and Women Whole Body Workout (40 kg (5 kg x 4, 3 kg x 4, 2 kg x 4), 3 in 1 convertible). “The body achieves what the mind believes.” Start a workout routine with our Protoner home gym set, specially designed for home use economical, durable and sturdy."
+    },
+    {
+      "id": 1068,
+      "name": "PowerMax Fitness TDM-96 (4HP Peak) Motorised Treadmill for Home Use [ Max User Wt. 110kg | LCD Display | Bluetooth for Music & Mobile App | 3 Level Manual Incline ] Free (DIY) Installation Assistance",
+      "brand": "PowerMax Fitness",
+      "categoryId": 16,
+      "subcategoryId": 102,
+      "price": 16499,
+      "discount": 71,
+      "originalPrice": 57375,
+      "image": [
+        "https://www.jiomart.com/images/product/original/493850529/powermax-fitness-tdm-96-4hp-peak-motorised-treadmill-for-home-use-max-user-wt-110kg-lcd-display-bluetooth-for-music-mobile-app-3-level-manual-incline-free-diy-installation-assistance-product-images-o493850529-p609543999-0-202407191124.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493850529/powermax-fitness-tdm-96-4hp-peak-motorised-treadmill-for-home-use-max-user-wt-110kg-lcd-display-bluetooth-for-music-mobile-app-3-level-manual-incline-free-diy-installation-assistance-product-images-o493850529-p609543999-1-202407191124.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493850529/powermax-fitness-tdm-96-4hp-peak-motorised-treadmill-for-home-use-max-user-wt-110kg-lcd-display-bluetooth-for-music-mobile-app-3-level-manual-incline-free-diy-installation-assistance-product-images-o493850529-p609543999-2-202407191124.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493850529/powermax-fitness-tdm-96-4hp-peak-motorised-treadmill-for-home-use-max-user-wt-110kg-lcd-display-bluetooth-for-music-mobile-app-3-level-manual-incline-free-diy-installation-assistance-product-images-o493850529-p609543999-3-202407191124.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/493850529/powermax-fitness-tdm-96-4hp-peak-motorised-treadmill-for-home-use-max-user-wt-110kg-lcd-display-bluetooth-for-music-mobile-app-3-level-manual-incline-free-diy-installation-assistance-product-images-o493850529-p609543999-4-202407191124.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 66,
+      "description": "The PowerMax Fitness Treadmill is a state-of-the-art cardio machine designed to bring the gym experience into your home. Perfect for users of all fitness levels, this treadmill offers a robust and reliable platform for your running or walking workouts. With a powerful motor, adjustable speed and incline settings, and an intuitive display, you can customize your exercise routine to meet your fitness goals. The treadmill also features a cushioned running surface to reduce impact on your joints, ensuring a comfortable workout every time. Compact and foldable, the PowerMax Fitness Treadmill is ideal for homes with limited space, making it a versatile addition to any fitness regimen. So what are you waiting for? Go ahead and buy this product online today!"
+    },
+    {
+      "id": 1069,
+      "name": "Jaspo Cricket Bat (Matrix) with PVC Ball, Heavy Duty Full Size Adult Plastic Bat for Tennis Ball",
+      "brand": "JASPO",
+      "categoryId": 16,
+      "subcategoryId": 103,
+      "price": 278,
+      "discount": 76,
+      "originalPrice": 1199,
+      "image": [
+        "https://www.jiomart.com/images/product/original/494240712/jaspo-cricket-bat-matrix-with-pvc-ball-heavy-duty-full-size-adult-plastic-bat-for-tennis-ball-product-images-o494240712-p605497624-0-202310301552.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494240712/jaspo-cricket-bat-matrix-with-pvc-ball-heavy-duty-full-size-adult-plastic-bat-for-tennis-ball-product-images-o494240712-p605497624-1-202310301552.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494240712/jaspo-cricket-bat-matrix-with-pvc-ball-heavy-duty-full-size-adult-plastic-bat-for-tennis-ball-product-images-o494240712-p605497624-2-202310301552.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494240712/jaspo-cricket-bat-matrix-with-pvc-ball-heavy-duty-full-size-adult-plastic-bat-for-tennis-ball-product-images-o494240712-p605497624-3-202310301552.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494240712/jaspo-cricket-bat-matrix-with-pvc-ball-heavy-duty-full-size-adult-plastic-bat-for-tennis-ball-product-images-o494240712-p605497624-4-202310301552.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 155,
+      "description": "Special Grade Virgin Plastic Material, Made from High Quality, Impact-resistant virgin plastic to ensure durability and performance. Octopus Professional Grip Choice: - We are using Octopus Grip. The octopus grip involves holding the bat handle with all fingers. This Grip provides a strong, secure hold, enhancing shot control, power, and precision, especially useful for aggressive batting. Glossy Premium artwork: - The Glossy graphics print on our Cricket Bat adds a polished surface, enhancing durability. Its easy to clean and offers improved visibility under lights. Get a Premium Cricket Bat with a Complimentary Cricket Ball: - Inside Package- 1 bat, 1 Ball. Measurement: Measurement of bat around 35 inch height, width 4.5 inch, thickness 2.2 inch. 850 grams Weight: - Our Bat weighs 850 grams, providing a balanced and sturdy feel for powerful shots and precise gameplay. So what are you waiting for? Go ahead and buy this product online today!"
+    },
+    {
+      "id": 1070,
+      "name": "Elan HERO Green FOOTBALL|Made from 1.5mm DIAMOND Textured PVC with High Cladding | Size 5 official size",
+      "brand": "Elan",
+      "categoryId": 16,
+      "subcategoryId": 104,
+      "price": 179,
+      "discount": 70,
+      "originalPrice": 599,
+      "image": [
+        "https://www.jiomart.com/images/product/original/494241360/elan-hero-green-football-made-from-1-5mm-diamond-textured-pvc-with-high-cladding-size-5-official-size-product-images-o494241360-p605458631-0-202502031216.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494241360/elan-hero-green-football-made-from-1-5mm-diamond-textured-pvc-with-high-cladding-size-5-official-size-product-images-o494241360-p605458631-1-202502031216.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494241360/elan-hero-green-football-made-from-1-5mm-diamond-textured-pvc-with-high-cladding-size-5-official-size-product-images-o494241360-p605458631-2-202502031216.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494241360/elan-hero-green-football-made-from-1-5mm-diamond-textured-pvc-with-high-cladding-size-5-official-size-product-images-o494241360-p605458631-3-202502031216.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494241360/elan-hero-green-football-made-from-1-5mm-diamond-textured-pvc-with-high-cladding-size-5-official-size-product-images-o494241360-p605458631-4-202502031216.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 229,
+      "description": "The Elan machine-stitched football made of strong PVC. The PVC has super cladding that is the unique technology of ELAN balls. The ball is cladded with additional layers of lining that gives extra edge on the strength of the ball. It Comes with polyester and cotton lining for improved durability along with extra edge beneath the PVC. So what are you waiting for? Go ahead and buy this product online today!"
+    },
+    {
+      "id": 1071,
+      "name": "Jaspo Badminton Set - Lets Play | Lightweight Badminton Racquet (1 pair) 3 Shuttle + 1 Carry Bag",
+      "brand": "JASPO",
+      "categoryId": 16,
+      "subcategoryId": 105,
+      "price": 329,
+      "discount": 52,
+      "originalPrice": 699,
+      "image": [
+        "https://www.jiomart.com/images/product/original/494240707/jaspo-lets-play-badminton-set-product-images-o494240707-p605485850-0-202310061136.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494240707/jaspo-lets-play-badminton-set-product-images-o494240707-p605485850-1-202310061136.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494240707/jaspo-lets-play-badminton-set-product-images-o494240707-p605485850-2-202310061136.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494240707/jaspo-lets-play-badminton-set-product-images-o494240707-p605485850-3-202310061136.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/494240707/jaspo-lets-play-badminton-set-product-images-o494240707-p605485850-4-202310061136.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 309,
+      "description": "Jaspo Badminton Set With Better Grip, Anti-Slip Materials, Perfect Performance, Improved Durability, Increased Control, Easy Handling, High-strength, Lighter Racket, Nylon Shuttlecock, Damage-Resistant"
+    },
+    {
+      "id": 1072,
+      "name": "Aashirvaad Shudh Whole Wheat Chakki Atta 10 kg",
+      "brand": "Aashirvaad",
+      "categoryId": 7,
+      "subcategoryId": 101,
+      "price": 475,
+      "discount": 12,
+      "originalPrice": 542,
+      "image": [
+        "https://www.jiomart.com/images/product/original/490000041/aashirvaad-shudh-chakki-atta-10-kg-product-images-o490000041-p490000041-0-202401260851.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490000041/aashirvaad-shudh-chakki-atta-10-kg-product-images-o490000041-p490000041-1-202401260851.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490000041/aashirvaad-shudh-chakki-atta-10-kg-product-images-o490000041-p490000041-2-202401260851.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490000041/aashirvaad-shudh-chakki-atta-10-kg-product-images-o490000041-p490000041-3-202401260851.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490000041/aashirvaad-shudh-chakki-atta-10-kg-product-images-o490000041-p490000041-4-202401260851.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490000041/aashirvaad-shudh-chakki-atta-10-kg-product-images-o490000041-p490000041-5-202401260852.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490000041/aashirvaad-shudh-chakki-atta-10-kg-product-images-o490000041-p490000041-6-202401260852.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490000041/aashirvaad-shudh-chakki-atta-10-kg-product-images-o490000041-p490000041-7-202401260852.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 53304,
+      "description": "Behind every Aashirvaad pack are the Indian farmers and Aashirvaad experts who have made the atta with extra care. The 4-step advantage process of sourcing, cleaning, grinding ensures zero human contact with the atta. Aashirvaad prides itself in making pure whole wheat atta with all its natural dietary fibres intact which ensures that you and your family receive optimum nutrition for a healthy life. Directly sourced from a wide network of Indian rural farmers, Aashirvaad Shudh Chakki Atta is Made in India. The grain produce goes through a 3 step cleaning process that ensures the best quality of wheat grains. The grains are ground using the chakki grinding method which makes sure that the chakki atta contains Sampoorna Atta and no Maida. Aashirvvad ensures locking-in the highest nutritional value in the whole wheat flour. The locked-in dietary fibres and natural nutrients help in easy digestion and supporting immunity which are essential for your family daily intake. The dough made from this chakki atta absorbs more water which makes sure that the rotis remain softer for a longer period. You and your family can lead a fit and healthier lifestyle as you enjoy soft, fluffy and delicious rotis from this naturally protein rich whole wheat atta. So what are you waiting for? Go ahead and buy this product online today!"
+    },
+    {
+      "id": 1073,
+      "name": "Aashirvaad Select Sharbati Wheat Atta 5 kg",
+      "brand": "Aashirvaad",
+      "categoryId": 7,
+      "subcategoryId": 101,
+      "price": 330,
+      "discount": 11,
+      "originalPrice": 373,
+      "image": [
+        "https://www.jiomart.com/images/product/original/490005641/aashirvaad-select-sharbati-whole-wheat-atta-5-kg-product-images-o490005641-p490005641-0-202302181712.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490005641/aashirvaad-select-sharbati-whole-wheat-atta-5-kg-product-images-o490005641-p490005641-1-202302181712.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490005641/aashirvaad-select-sharbati-whole-wheat-atta-5-kg-legal-images-o490005641-p490005641-2-202302181712.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490005641/aashirvaad-select-sharbati-whole-wheat-atta-5-kg-legal-images-o490005641-p490005641-3-202302181712.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490005641/aashirvaad-select-sharbati-whole-wheat-atta-5-kg-legal-images-o490005641-p490005641-4-202302181712.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490005641/aashirvaad-select-sharbati-whole-wheat-atta-5-kg-legal-images-o490005641-p490005641-5-202302181712.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490005641/aashirvaad-select-sharbati-whole-wheat-atta-5-kg-legal-images-o490005641-p490005641-6-202302181712.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490005641/aashirvaad-select-sharbati-whole-wheat-atta-5-kg-legal-images-o490005641-p490005641-7-202302181712.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 14500,
+      "description": "Behind every Aashirvaad pack are the Indian farmers and Aashirvaad experts who have made the atta with extra care. The 4-step advantage process of sourcing, cleaning, grinding ensures zero human contact with the atta. Aashirvaad prides itself in making pure whole wheat atta with all its natural dietary fibres intact which ensures that you and your family receive optimum nutrition for a healthy life. Directly sourced from a wide network of Indian rural farmers, Aashirvaad Shudh Chakki Atta is Made in India. The grain produce goes through a 3 step cleaning process that ensures the best quality of wheat grains. The grains are ground using the chakki grinding method which makes sure that the chakki atta contains Sampoorna Atta and no Maida. Aashirvvad ensures locking-in the highest nutritional value in the whole wheat flour. The locked-in dietary fibres and natural nutrients help in easy digestion and supporting immunity which are essential for your family daily intake. The dough made from this chakki atta absorbs more water which makes sure that the rotis remain softer for a longer period. You and your family can lead a fit and healthier lifestyle as you enjoy soft, fluffy and delicious rotis from this naturally protein rich whole wheat atta. So what are you waiting for? Go ahead and buy this product online today!"
+    },
+    {
+      "id": 1074,
+      "name": "Fortune Superfine Besan 500 g",
+      "brand": "Fortune",
+      "categoryId": 7,
+      "subcategoryId": 102,
+      "price": 50,
+      "discount": 54,
+      "originalPrice": 109,
+      "image": [
+        "https://www.jiomart.com/images/product/original/491110230/fortune-superfine-besan-500-g-product-images-o491110230-p491110230-0-202203170335.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491110230/fortune-superfine-besan-500-g-product-images-o491110230-p491110230-1-202203170335.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491110230/fortune-superfine-besan-500-g-legal-images-o491110230-p491110230-2-202203170335.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491110230/fortune-superfine-besan-500-g-legal-images-o491110230-p491110230-3-202203170335.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491110230/fortune-superfine-besan-500-g-legal-images-o491110230-p491110230-4-202203170335.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 3317,
+      "description": "Fortune Superfine Besan is used for preparing a variety of crispy foods like snacks, dhoklas, and sweets. It is pale yellow in colour and fine in texture. Rajasthani Gatta Curry or Gatte ki subzi is a very popular Rajasthani vegetarian dish made from besan atta. Buy Fortune Superfine Besan online now!"
+    },
+    {
+      "id": 1075,
+      "name": "Fortune Besan 1 kg",
+      "brand": "Fortune",
+      "categoryId": 7,
+      "subcategoryId": 102,
+      "price": 99,
+      "discount": 50,
+      "originalPrice": 199,
+      "image": [
+        "https://www.jiomart.com/images/product/original/491110416/fortune-besan-1-kg-product-images-o491110416-p491110416-0-202303241108.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491110416/fortune-besan-1-kg-product-images-o491110416-p491110416-1-202303241108.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491110416/fortune-besan-1-kg-legal-images-o491110416-p491110416-2-202303241108.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491110416/fortune-besan-1-kg-legal-images-o491110416-p491110416-3-202303241108.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491110416/fortune-besan-1-kg-legal-images-o491110416-p491110416-4-202303241108.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 21917,
+      "description": "Fortune Superfine Besan is used for preparing a variety of crispy foods like snacks, dhoklas, and sweets. It is pale yellow in colour and fine in texture. Rajasthani Gatta Curry or Gatte ki subzi is a very popular Rajasthani vegetarian dish made from besan atta. Buy Fortune Superfine Besan online now!"
+    },
+    {
+      "id": 1076,
+      "name": "Good Life Kabuli Chana 1 kg",
+      "brand": "Good Life",
+      "categoryId": 7,
+      "subcategoryId": 103,
+      "price": 153,
+      "discount": 22,
+      "originalPrice": 179,
+      "image": [
+        "https://www.jiomart.com/images/product/original/491187282/good-life-kabuli-chana-1-kg-product-images-o491187282-p491187282-0-202407051515.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491187282/good-life-kabuli-chana-1-kg-product-images-o491187282-p491187282-1-202407051515.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491187282/good-life-kabuli-chana-1-kg-legal-images-o491187282-p491187282-2-202407051515.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491187282/good-life-kabuli-chana-1-kg-legal-images-o491187282-p491187282-3-202407051515.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491187282/good-life-kabuli-chana-1-kg-legal-images-o491187282-p491187282-4-202407051515.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491187282/good-life-kabuli-chana-1-kg-legal-images-o491187282-p491187282-5-202407051515.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 7577,
+      "description": "Kabuli Chana is rich in proteins, dietary fibre and low in cholesterol and saturated fat. The beans can be soaked in water and cooked along with vegetables in the preparation of a variety of curries that complement well with rice, roti, chapattis, puri, kulcha as well as bread. It can be sprouted after soaking in water for 24 hours and added to salads to enrich the latter with proteins. Buy Good Life Kabuli Chana online now!"
+    },
+    {
+      "id": 1077,
+      "name": "Tata Sampann Unpolished Tur / Arhar Dal 1 kg",
+      "brand": "Tata Sampann",
+      "categoryId": 7,
+      "subcategoryId": 103,
+      "price": 179,
+      "discount": 35,
+      "originalPrice": 276,
+      "image": [
+        "https://www.jiomart.com/images/product/original/490830932/tata-sampann-unpolished-tur-arhar-dal-1-kg-product-images-o490830932-p490830932-0-202207201859.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490830932/tata-sampann-unpolished-tur-arhar-dal-1-kg-product-images-o490830932-p490830932-1-202207201859.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490830932/tata-sampann-unpolished-tur-arhar-dal-1-kg-legal-images-o490830932-p490830932-2-202207201859.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490830932/tata-sampann-unpolished-tur-arhar-dal-1-kg-legal-images-o490830932-p490830932-3-202207201859.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490830932/tata-sampann-unpolished-tur-arhar-dal-1-kg-legal-images-o490830932-p490830932-4-202207201859.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490830932/tata-sampann-unpolished-tur-arhar-dal-1-kg-legal-images-o490830932-p490830932-5-202207201859.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490830932/tata-sampann-unpolished-tur-arhar-dal-1-kg-legal-images-o490830932-p490830932-6-202207201859.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490830932/tata-sampann-unpolished-tur-arhar-dal-1-kg-legal-images-o490830932-p490830932-7-202207201859.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 7037,
+      "description": "Tata Sampann Unpolished Toor Dal is used in making a variety of dishes. It will surely fit into your daily diet. Toor Dal is one of the most used ingredients in an Indian kitchen. Toor dal is the staple food of India and is consumed on a daily basis in almost all Indian households along with rice and roti. It is used in popular recipes like sambhar, dals, and many other tasty dishes. Buy Tata Sampann Unpolished Toor Dal online now!"
+    },
+    {
+      "id": 1078,
+      "name": "Good Life Biryani Basmati Rice 1 kg",
+      "brand": "Fortune",
+      "categoryId": 7,
+      "subcategoryId": 104,
+      "price": 105,
+      "discount": 47,
+      "originalPrice": 200,
+      "image": [
+        "https://www.jiomart.com/images/product/original/491638653/good-life-biryani-basmati-rice-1-kg-product-images-o491638653-p590067273-0-202411182306.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491638653/good-life-biryani-basmati-rice-1-kg-product-images-o491638653-p590067273-1-202411182306.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491638653/good-life-biryani-basmati-rice-1-kg-product-images-o491638653-p590067273-2-202411182306.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491638653/good-life-biryani-basmati-rice-1-kg-legal-images-o491638653-p590067273-3-202411182306.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491638653/good-life-biryani-basmati-rice-1-kg-legal-images-o491638653-p590067273-4-202411182306.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491638653/good-life-biryani-basmati-rice-1-kg-legal-images-o491638653-p590067273-5-202411182306.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491638653/good-life-biryani-basmati-rice-1-kg-legal-images-o491638653-p590067273-6-202411182306.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 8809,
+      "description": "Good Life Biryani Basmati Rice has been an integral part of different rice recipes in every Indian household. It is really tasty as this rice is processed under the supervision of experts. It can be used in the preparation of a variety of rice dishes including biryani, pulao, and other Indian dishes. One can have it with meat, curry, dal and many more food items. Buy Good Life Biryani Basmati Rice online now!"
+    },
+    {
+      "id": 1079,
+      "name": "India Gate Mogra Basmati Rice 10 kg",
+      "brand": "India Gate",
+      "categoryId": 7,
+      "subcategoryId": 104,
+      "price": 595,
+      "discount": 31,
+      "originalPrice": 865,
+      "image": [
+        "https://www.jiomart.com/images/product/original/490005504/india-gate-mogra-basmati-rice-10-kg-product-images-o490005504-p490005504-0-202411271349.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490005504/india-gate-mogra-basmati-rice-10-kg-product-images-o490005504-p490005504-1-202411271349.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490005504/india-gate-mogra-basmati-rice-10-kg-legal-images-o490005504-p490005504-2-202411271349.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490005504/india-gate-mogra-basmati-rice-10-kg-legal-images-o490005504-p490005504-3-202411271349.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490005504/india-gate-mogra-basmati-rice-10-kg-legal-images-o490005504-p490005504-4-202411271349.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 6104,
+      "description": "India Gate Mogra Basmati Rice has been an integral part of different Rice recipes in every Indian household. It is processed under the supervision of experts. It can be used in a variety of Rice dishes including biryani, pulao, and other Indian dishes. One can have it with meat, curries, dals and many more food items. Buy India Gate Mogra Basmati Rice online now!"
+    },
+    {
+      "id": 1080,
+      "name": "Good Life Thick Poha / Aval 500 g",
+      "brand": "Good Life",
+      "categoryId": 7,
+      "subcategoryId": 105,
+      "price": 36,
+      "discount": 50,
+      "originalPrice": 72,
+      "image": [
+        "https://www.jiomart.com/images/product/original/491185265/good-life-thick-poha-aval-500-g-product-images-o491185265-p491185265-0-202203171048.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491185265/good-life-thick-poha-aval-500-g-product-images-o491185265-p491185265-1-202203171048.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491185265/good-life-thick-poha-aval-500-g-legal-images-o491185265-p491185265-2-202203171048.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491185265/good-life-thick-poha-aval-500-g-legal-images-o491185265-p491185265-3-202203171048.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491185265/good-life-thick-poha-aval-500-g-legal-images-o491185265-p491185265-4-202203171048.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491185265/good-life-thick-poha-aval-500-g-legal-images-o491185265-p491185265-5-202203171048.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491185265/good-life-thick-poha-aval-500-g-legal-images-o491185265-p491185265-6-202203171048.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491185265/good-life-thick-poha-aval-500-g-legal-images-o491185265-p491185265-7-202203171048.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 46328,
+      "description": "Good Life Thick Poha / Aval is prepared from rice flakes. It is easy to prepare and is often had for breakfast or lunch. Poha also makes an amazing potluck dish. It is flattened rice originating from the Indian subcontinent. Rice is parboiled before flattening so that it can be consumed with very little to no cooking. Buy Good Life Thick Poha / Aval online now!"
+    },
+    {
+      "id": 1081,
+      "name": "Good Life Big Sabudana / Sago 500 g",
+      "brand": "Good Life",
+      "categoryId": 7,
+      "subcategoryId": 105,
+      "price": 36,
+      "discount": 40,
+      "originalPrice": 60,
+      "image": [
+        "https://www.jiomart.com/images/product/original/491185248/good-life-big-sabudana-sago-500-g-product-images-o491185248-p491185248-0-202203171122.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491185248/good-life-big-sabudana-sago-500-g-product-images-o491185248-p491185248-1-202203171122.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491185248/good-life-big-sabudana-sago-500-g-legal-images-o491185248-p491185248-2-202203171122.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491185248/good-life-big-sabudana-sago-500-g-legal-images-o491185248-p491185248-3-202203171122.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491185248/good-life-big-sabudana-sago-500-g-legal-images-o491185248-p491185248-4-202203171122.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491185248/good-life-big-sabudana-sago-500-g-legal-images-o491185248-p491185248-5-202203171122.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491185248/good-life-big-sabudana-sago-500-g-legal-images-o491185248-p491185248-6-202203171122.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/491185248/good-life-big-sabudana-sago-500-g-legal-images-o491185248-p491185248-7-202203171122.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 16772,
+      "description": "Fortune Superfine Besan is used for preparing a variety of crispy foods like snacks, dhoklas, and sweets. It is pale yellow in colour and fine in texture. Rajasthani Gatta Curry or Gatte ki subzi is a very popular Rajasthani vegetarian dish made from besan atta. Buy Fortune Superfine Besan online now!Good Life Big Sabudana / Sago is the most commonly used food during fasting. It is one ingredient that is used by almost all communities in India during religious fasting days. It keeps you full for a longer time. It can fulfil the dietary requirements during the fast. Buy Good Life Big Sabudana / Sago online now!"
+    }
+  ],
+  "add-to-cart": [
+    {
+      "id": 1072,
+      "name": "Aashirvaad Shudh Whole Wheat Chakki Atta 10 kg",
+      "brand": "Aashirvaad",
+      "categoryId": 7,
+      "subcategoryId": 101,
+      "price": 475,
+      "discount": 12,
+      "originalPrice": 542,
+      "image": [
+        "https://www.jiomart.com/images/product/original/490000041/aashirvaad-shudh-chakki-atta-10-kg-product-images-o490000041-p490000041-0-202401260851.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490000041/aashirvaad-shudh-chakki-atta-10-kg-product-images-o490000041-p490000041-1-202401260851.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490000041/aashirvaad-shudh-chakki-atta-10-kg-product-images-o490000041-p490000041-2-202401260851.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490000041/aashirvaad-shudh-chakki-atta-10-kg-product-images-o490000041-p490000041-3-202401260851.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490000041/aashirvaad-shudh-chakki-atta-10-kg-product-images-o490000041-p490000041-4-202401260851.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490000041/aashirvaad-shudh-chakki-atta-10-kg-product-images-o490000041-p490000041-5-202401260852.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490000041/aashirvaad-shudh-chakki-atta-10-kg-product-images-o490000041-p490000041-6-202401260852.jpg?im=Resize=(420,420)",
+        "https://www.jiomart.com/images/product/original/490000041/aashirvaad-shudh-chakki-atta-10-kg-product-images-o490000041-p490000041-7-202401260852.jpg?im=Resize=(420,420)"
+      ],
+      "reviews": 53304,
+      "description": "Behind every Aashirvaad pack are the Indian farmers and Aashirvaad experts who have made the atta with extra care. The 4-step advantage process of sourcing, cleaning, grinding ensures zero human contact with the atta. Aashirvaad prides itself in making pure whole wheat atta with all its natural dietary fibres intact which ensures that you and your family receive optimum nutrition for a healthy life. Directly sourced from a wide network of Indian rural farmers, Aashirvaad Shudh Chakki Atta is Made in India. The grain produce goes through a 3 step cleaning process that ensures the best quality of wheat grains. The grains are ground using the chakki grinding method which makes sure that the chakki atta contains Sampoorna Atta and no Maida. Aashirvvad ensures locking-in the highest nutritional value in the whole wheat flour. The locked-in dietary fibres and natural nutrients help in easy digestion and supporting immunity which are essential for your family daily intake. The dough made from this chakki atta absorbs more water which makes sure that the rotis remain softer for a longer period. You and your family can lead a fit and healthier lifestyle as you enjoy soft, fluffy and delicious rotis from this naturally protein rich whole wheat atta. So what are you waiting for? Go ahead and buy this product online today!",
+      "quantity": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "rishi shrivastav",
+      "email": "rishishrivastav28@gmial.com",
+      "password": "123456789",
+      "id": 1
+    },
+    {
+      "name": "shivam",
+      "email": "shivam@gmail.com",
+      "password": "123456",
+      "id": 2
+    }
+  ]
+}
